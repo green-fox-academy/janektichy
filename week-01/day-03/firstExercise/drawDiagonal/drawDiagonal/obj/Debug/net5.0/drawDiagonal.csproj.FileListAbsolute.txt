@@ -1,0 +1,16 @@
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\drawDiagonal\drawDiagonal\bin\Debug\net5.0\drawDiagonal.exe
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\drawDiagonal\drawDiagonal\bin\Debug\net5.0\drawDiagonal.deps.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\drawDiagonal\drawDiagonal\bin\Debug\net5.0\drawDiagonal.runtimeconfig.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\drawDiagonal\drawDiagonal\bin\Debug\net5.0\drawDiagonal.runtimeconfig.dev.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\drawDiagonal\drawDiagonal\bin\Debug\net5.0\drawDiagonal.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\drawDiagonal\drawDiagonal\bin\Debug\net5.0\ref\drawDiagonal.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\drawDiagonal\drawDiagonal\bin\Debug\net5.0\drawDiagonal.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\drawDiagonal\drawDiagonal\obj\Debug\net5.0\drawDiagonal.csproj.AssemblyReference.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\drawDiagonal\drawDiagonal\obj\Debug\net5.0\drawDiagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\drawDiagonal\drawDiagonal\obj\Debug\net5.0\drawDiagonal.AssemblyInfoInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\drawDiagonal\drawDiagonal\obj\Debug\net5.0\drawDiagonal.AssemblyInfo.cs
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\drawDiagonal\drawDiagonal\obj\Debug\net5.0\drawDiagonal.csproj.CoreCompileInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\drawDiagonal\drawDiagonal\obj\Debug\net5.0\drawDiagonal.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\drawDiagonal\drawDiagonal\obj\Debug\net5.0\ref\drawDiagonal.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\drawDiagonal\drawDiagonal\obj\Debug\net5.0\drawDiagonal.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\drawDiagonal\drawDiagonal\obj\Debug\net5.0\drawDiagonal.genruntimeconfig.cache

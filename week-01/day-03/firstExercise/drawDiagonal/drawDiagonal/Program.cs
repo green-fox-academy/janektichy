@@ -15,16 +15,55 @@ namespace drawDiagonal
             int b = 1;
             int c = 1;
 
-            switch (i)
-                case "1" 
-            
-                while (a <= number)
+            while (i <= number)
+            {
+                if (i == 1)
                 {
-                    Console.Write("%");
-                    a++;
+
+                    while (a <= number)
+                    {
+                        
+                        Console.Write("%");
+                        a++;
+                    }
                 }
-            
-            
+                if (i == number)
+                {
+
+                    while (a <= number)
+                    {
+                        Console.Write("%");
+                        a++;
+                    }
+                }
+                else
+                {
+                    while (b<=number)
+                    {
+                        if (b == 1) 
+                        {
+                            Console.WriteLine("%");
+
+                        }
+                        else if (b == number)
+                        { 
+                            Console.Write("%");
+                        }
+                        else
+                        {
+                            Console.Write(" ");
+                        }
+                        b++;
+                    }
+                    b = 1;
+                }
+                a = 1;
+                
+                c = 1;
+                i++;
+            }
+
+
             // Write a program that reads a number from the standard input, then draws a
             // square like this:
             //
