@@ -1,0 +1,16 @@
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\twoNumbers\twoNumbers\bin\Debug\net5.0\twoNumbers.exe
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\twoNumbers\twoNumbers\bin\Debug\net5.0\twoNumbers.deps.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\twoNumbers\twoNumbers\bin\Debug\net5.0\twoNumbers.runtimeconfig.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\twoNumbers\twoNumbers\bin\Debug\net5.0\twoNumbers.runtimeconfig.dev.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\twoNumbers\twoNumbers\bin\Debug\net5.0\twoNumbers.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\twoNumbers\twoNumbers\bin\Debug\net5.0\ref\twoNumbers.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\twoNumbers\twoNumbers\bin\Debug\net5.0\twoNumbers.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\twoNumbers\twoNumbers\obj\Debug\net5.0\twoNumbers.csproj.AssemblyReference.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\twoNumbers\twoNumbers\obj\Debug\net5.0\twoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\twoNumbers\twoNumbers\obj\Debug\net5.0\twoNumbers.AssemblyInfoInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\twoNumbers\twoNumbers\obj\Debug\net5.0\twoNumbers.AssemblyInfo.cs
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\twoNumbers\twoNumbers\obj\Debug\net5.0\twoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\twoNumbers\twoNumbers\obj\Debug\net5.0\twoNumbers.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\twoNumbers\twoNumbers\obj\Debug\net5.0\ref\twoNumbers.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\twoNumbers\twoNumbers\obj\Debug\net5.0\twoNumbers.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\twoNumbers\twoNumbers\obj\Debug\net5.0\twoNumbers.genruntimeconfig.cache
