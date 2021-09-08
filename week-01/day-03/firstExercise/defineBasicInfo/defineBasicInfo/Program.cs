@@ -10,5 +10,6 @@ namespace defineBasicInfo
             int myAge = 20;
             double myHeight = 1.79;
             bool married = false;
+        }
     }
 }

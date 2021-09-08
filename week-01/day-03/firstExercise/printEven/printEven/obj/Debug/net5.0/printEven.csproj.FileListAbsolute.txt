@@ -1,0 +1,15 @@
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\printEven\printEven\bin\Debug\net5.0\printEven.exe
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\printEven\printEven\bin\Debug\net5.0\printEven.deps.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\printEven\printEven\bin\Debug\net5.0\printEven.runtimeconfig.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\printEven\printEven\bin\Debug\net5.0\printEven.runtimeconfig.dev.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\printEven\printEven\bin\Debug\net5.0\printEven.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\printEven\printEven\bin\Debug\net5.0\ref\printEven.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\printEven\printEven\bin\Debug\net5.0\printEven.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\printEven\printEven\obj\Debug\net5.0\printEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\printEven\printEven\obj\Debug\net5.0\printEven.AssemblyInfoInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\printEven\printEven\obj\Debug\net5.0\printEven.AssemblyInfo.cs
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\printEven\printEven\obj\Debug\net5.0\printEven.csproj.CoreCompileInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\printEven\printEven\obj\Debug\net5.0\printEven.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\printEven\printEven\obj\Debug\net5.0\ref\printEven.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\printEven\printEven\obj\Debug\net5.0\printEven.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\printEven\printEven\obj\Debug\net5.0\printEven.genruntimeconfig.cache
