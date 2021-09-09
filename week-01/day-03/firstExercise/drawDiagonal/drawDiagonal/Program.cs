@@ -10,58 +10,39 @@ namespace drawDiagonal
             Console.WriteLine("Give me a number");
             string input = Console.ReadLine();
             int number = int.Parse(input);
-            int i = 1;
-            int a = 1;
-            int b = 1;
-            int c = 1;
 
-            while (i <= number)
-            {
-                if (i == 1)
+
+            int position;
+
+            for (int line = 1; line <= number; line++)
+
+            { 
+                for (position = 1; position <= number; position++)
                 {
-
-                    while (a <= number)
+                    if (position == number)
                     {
-                        
-                        Console.Write("%");
-                        a++;
+                        Console.WriteLine("%");
+
                     }
-                }
-                if (i == number)
-                {
-
-                    while (a <= number)
+                    else
                     {
-                        Console.Write("%");
-                        a++;
-                    }
-                }
-                else
-                {
-                    while (b<=number)
-                    {
-                        if (b == 1) 
+                        if (position == line || line == number || position == 1 || line == 1)
                         {
-                            Console.WriteLine("%");
-
-                        }
-                        else if (b == number)
-                        { 
                             Console.Write("%");
                         }
                         else
                         {
                             Console.Write(" ");
                         }
-                        b++;
+
+
+
                     }
-                    b = 1;
+
                 }
-                a = 1;
-                
-                c = 1;
-                i++;
+             
             }
+            
 
 
             // Write a program that reads a number from the standard input, then draws a
