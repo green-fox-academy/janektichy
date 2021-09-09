@@ -1,0 +1,15 @@
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\printBiggerOne\printBiggerOne\bin\Debug\net5.0\printBiggerOne.exe
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\printBiggerOne\printBiggerOne\bin\Debug\net5.0\printBiggerOne.deps.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\printBiggerOne\printBiggerOne\bin\Debug\net5.0\printBiggerOne.runtimeconfig.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\printBiggerOne\printBiggerOne\bin\Debug\net5.0\printBiggerOne.runtimeconfig.dev.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\printBiggerOne\printBiggerOne\bin\Debug\net5.0\printBiggerOne.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\printBiggerOne\printBiggerOne\bin\Debug\net5.0\ref\printBiggerOne.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\printBiggerOne\printBiggerOne\bin\Debug\net5.0\printBiggerOne.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\printBiggerOne\printBiggerOne\obj\Debug\net5.0\printBiggerOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\printBiggerOne\printBiggerOne\obj\Debug\net5.0\printBiggerOne.AssemblyInfoInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\printBiggerOne\printBiggerOne\obj\Debug\net5.0\printBiggerOne.AssemblyInfo.cs
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\printBiggerOne\printBiggerOne\obj\Debug\net5.0\printBiggerOne.csproj.CoreCompileInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\printBiggerOne\printBiggerOne\obj\Debug\net5.0\printBiggerOne.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\printBiggerOne\printBiggerOne\obj\Debug\net5.0\ref\printBiggerOne.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\printBiggerOne\printBiggerOne\obj\Debug\net5.0\printBiggerOne.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\printBiggerOne\printBiggerOne\obj\Debug\net5.0\printBiggerOne.genruntimeconfig.cache

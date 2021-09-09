@@ -1,0 +1,15 @@
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\oneTwoALot\oneTwoALot\obj\Debug\net5.0\oneTwoALot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\oneTwoALot\oneTwoALot\obj\Debug\net5.0\oneTwoALot.AssemblyInfoInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\oneTwoALot\oneTwoALot\obj\Debug\net5.0\oneTwoALot.AssemblyInfo.cs
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\oneTwoALot\oneTwoALot\obj\Debug\net5.0\oneTwoALot.csproj.CoreCompileInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\oneTwoALot\oneTwoALot\bin\Debug\net5.0\oneTwoALot.exe
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\oneTwoALot\oneTwoALot\bin\Debug\net5.0\oneTwoALot.deps.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\oneTwoALot\oneTwoALot\bin\Debug\net5.0\oneTwoALot.runtimeconfig.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\oneTwoALot\oneTwoALot\bin\Debug\net5.0\oneTwoALot.runtimeconfig.dev.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\oneTwoALot\oneTwoALot\bin\Debug\net5.0\oneTwoALot.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\oneTwoALot\oneTwoALot\bin\Debug\net5.0\ref\oneTwoALot.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\oneTwoALot\oneTwoALot\bin\Debug\net5.0\oneTwoALot.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\oneTwoALot\oneTwoALot\obj\Debug\net5.0\oneTwoALot.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\oneTwoALot\oneTwoALot\obj\Debug\net5.0\ref\oneTwoALot.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\oneTwoALot\oneTwoALot\obj\Debug\net5.0\oneTwoALot.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\oneTwoALot\oneTwoALot\obj\Debug\net5.0\oneTwoALot.genruntimeconfig.cache

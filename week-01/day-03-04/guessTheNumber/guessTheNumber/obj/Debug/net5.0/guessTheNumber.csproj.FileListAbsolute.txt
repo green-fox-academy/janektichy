@@ -1,0 +1,16 @@
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\guessTheNumber\guessTheNumber\bin\Debug\net5.0\guessTheNumber.exe
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\guessTheNumber\guessTheNumber\bin\Debug\net5.0\guessTheNumber.deps.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\guessTheNumber\guessTheNumber\bin\Debug\net5.0\guessTheNumber.runtimeconfig.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\guessTheNumber\guessTheNumber\bin\Debug\net5.0\guessTheNumber.runtimeconfig.dev.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\guessTheNumber\guessTheNumber\bin\Debug\net5.0\guessTheNumber.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\guessTheNumber\guessTheNumber\bin\Debug\net5.0\ref\guessTheNumber.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\guessTheNumber\guessTheNumber\bin\Debug\net5.0\guessTheNumber.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\guessTheNumber\guessTheNumber\obj\Debug\net5.0\guessTheNumber.csproj.AssemblyReference.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\guessTheNumber\guessTheNumber\obj\Debug\net5.0\guessTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\guessTheNumber\guessTheNumber\obj\Debug\net5.0\guessTheNumber.AssemblyInfoInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\guessTheNumber\guessTheNumber\obj\Debug\net5.0\guessTheNumber.AssemblyInfo.cs
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\guessTheNumber\guessTheNumber\obj\Debug\net5.0\guessTheNumber.csproj.CoreCompileInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\guessTheNumber\guessTheNumber\obj\Debug\net5.0\guessTheNumber.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\guessTheNumber\guessTheNumber\obj\Debug\net5.0\ref\guessTheNumber.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\guessTheNumber\guessTheNumber\obj\Debug\net5.0\guessTheNumber.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\guessTheNumber\guessTheNumber\obj\Debug\net5.0\guessTheNumber.genruntimeconfig.cache

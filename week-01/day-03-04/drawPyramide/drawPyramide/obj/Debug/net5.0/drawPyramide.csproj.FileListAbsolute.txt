@@ -1,0 +1,16 @@
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\drawPyramide\drawPyramide\obj\Debug\net5.0\drawPyramide.csproj.AssemblyReference.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\drawPyramide\drawPyramide\obj\Debug\net5.0\drawPyramide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\drawPyramide\drawPyramide\obj\Debug\net5.0\drawPyramide.AssemblyInfoInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\drawPyramide\drawPyramide\obj\Debug\net5.0\drawPyramide.AssemblyInfo.cs
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\drawPyramide\drawPyramide\obj\Debug\net5.0\drawPyramide.csproj.CoreCompileInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\drawPyramide\drawPyramide\bin\Debug\net5.0\drawPyramide.exe
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\drawPyramide\drawPyramide\bin\Debug\net5.0\drawPyramide.deps.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\drawPyramide\drawPyramide\bin\Debug\net5.0\drawPyramide.runtimeconfig.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\drawPyramide\drawPyramide\bin\Debug\net5.0\drawPyramide.runtimeconfig.dev.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\drawPyramide\drawPyramide\bin\Debug\net5.0\drawPyramide.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\drawPyramide\drawPyramide\bin\Debug\net5.0\ref\drawPyramide.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\drawPyramide\drawPyramide\bin\Debug\net5.0\drawPyramide.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\drawPyramide\drawPyramide\obj\Debug\net5.0\drawPyramide.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\drawPyramide\drawPyramide\obj\Debug\net5.0\ref\drawPyramide.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\drawPyramide\drawPyramide\obj\Debug\net5.0\drawPyramide.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\drawPyramide\drawPyramide\obj\Debug\net5.0\drawPyramide.genruntimeconfig.cache

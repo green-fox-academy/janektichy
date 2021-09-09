@@ -1,0 +1,16 @@
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\drawDiamond\drawDiamond\obj\Debug\net5.0\drawDiamond.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\drawDiamond\drawDiamond\obj\Debug\net5.0\drawDiamond.AssemblyInfoInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\drawDiamond\drawDiamond\obj\Debug\net5.0\drawDiamond.AssemblyInfo.cs
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\drawDiamond\drawDiamond\obj\Debug\net5.0\drawDiamond.csproj.CoreCompileInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\drawDiamond\drawDiamond\bin\Debug\net5.0\drawDiamond.exe
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\drawDiamond\drawDiamond\bin\Debug\net5.0\drawDiamond.deps.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\drawDiamond\drawDiamond\bin\Debug\net5.0\drawDiamond.runtimeconfig.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\drawDiamond\drawDiamond\bin\Debug\net5.0\drawDiamond.runtimeconfig.dev.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\drawDiamond\drawDiamond\bin\Debug\net5.0\drawDiamond.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\drawDiamond\drawDiamond\bin\Debug\net5.0\ref\drawDiamond.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\drawDiamond\drawDiamond\bin\Debug\net5.0\drawDiamond.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\drawDiamond\drawDiamond\obj\Debug\net5.0\drawDiamond.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\drawDiamond\drawDiamond\obj\Debug\net5.0\ref\drawDiamond.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\drawDiamond\drawDiamond\obj\Debug\net5.0\drawDiamond.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\drawDiamond\drawDiamond\obj\Debug\net5.0\drawDiamond.genruntimeconfig.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\drawDiamond\drawDiamond\obj\Debug\net5.0\drawDiamond.csproj.AssemblyReference.cache

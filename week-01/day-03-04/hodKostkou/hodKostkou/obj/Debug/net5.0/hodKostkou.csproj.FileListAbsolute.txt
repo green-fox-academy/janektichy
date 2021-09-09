@@ -1,0 +1,16 @@
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03-04\hodKostkou\hodKostkou\bin\Debug\net5.0\hodKostkou.exe
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03-04\hodKostkou\hodKostkou\bin\Debug\net5.0\hodKostkou.deps.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03-04\hodKostkou\hodKostkou\bin\Debug\net5.0\hodKostkou.runtimeconfig.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03-04\hodKostkou\hodKostkou\bin\Debug\net5.0\hodKostkou.runtimeconfig.dev.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03-04\hodKostkou\hodKostkou\bin\Debug\net5.0\hodKostkou.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03-04\hodKostkou\hodKostkou\bin\Debug\net5.0\ref\hodKostkou.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03-04\hodKostkou\hodKostkou\bin\Debug\net5.0\hodKostkou.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03-04\hodKostkou\hodKostkou\obj\Debug\net5.0\hodKostkou.csproj.AssemblyReference.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03-04\hodKostkou\hodKostkou\obj\Debug\net5.0\hodKostkou.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03-04\hodKostkou\hodKostkou\obj\Debug\net5.0\hodKostkou.AssemblyInfoInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03-04\hodKostkou\hodKostkou\obj\Debug\net5.0\hodKostkou.AssemblyInfo.cs
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03-04\hodKostkou\hodKostkou\obj\Debug\net5.0\hodKostkou.csproj.CoreCompileInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03-04\hodKostkou\hodKostkou\obj\Debug\net5.0\hodKostkou.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03-04\hodKostkou\hodKostkou\obj\Debug\net5.0\ref\hodKostkou.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03-04\hodKostkou\hodKostkou\obj\Debug\net5.0\hodKostkou.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03-04\hodKostkou\hodKostkou\obj\Debug\net5.0\hodKostkou.genruntimeconfig.cache

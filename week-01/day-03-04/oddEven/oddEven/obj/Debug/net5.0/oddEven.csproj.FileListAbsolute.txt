@@ -1,0 +1,15 @@
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\oddEven\oddEven\bin\Debug\net5.0\oddEven.exe
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\oddEven\oddEven\bin\Debug\net5.0\oddEven.deps.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\oddEven\oddEven\bin\Debug\net5.0\oddEven.runtimeconfig.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\oddEven\oddEven\bin\Debug\net5.0\oddEven.runtimeconfig.dev.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\oddEven\oddEven\bin\Debug\net5.0\oddEven.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\oddEven\oddEven\bin\Debug\net5.0\ref\oddEven.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\oddEven\oddEven\bin\Debug\net5.0\oddEven.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\oddEven\oddEven\obj\Debug\net5.0\oddEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\oddEven\oddEven\obj\Debug\net5.0\oddEven.AssemblyInfoInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\oddEven\oddEven\obj\Debug\net5.0\oddEven.AssemblyInfo.cs
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\oddEven\oddEven\obj\Debug\net5.0\oddEven.csproj.CoreCompileInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\oddEven\oddEven\obj\Debug\net5.0\oddEven.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\oddEven\oddEven\obj\Debug\net5.0\ref\oddEven.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\oddEven\oddEven\obj\Debug\net5.0\oddEven.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\oddEven\oddEven\obj\Debug\net5.0\oddEven.genruntimeconfig.cache
