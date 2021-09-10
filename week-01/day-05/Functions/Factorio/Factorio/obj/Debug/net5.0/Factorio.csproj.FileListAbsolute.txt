@@ -1,0 +1,15 @@
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\Factorio\Factorio\bin\Debug\net5.0\Factorio.exe
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\Factorio\Factorio\bin\Debug\net5.0\Factorio.deps.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\Factorio\Factorio\bin\Debug\net5.0\Factorio.runtimeconfig.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\Factorio\Factorio\bin\Debug\net5.0\Factorio.runtimeconfig.dev.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\Factorio\Factorio\bin\Debug\net5.0\Factorio.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\Factorio\Factorio\bin\Debug\net5.0\ref\Factorio.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\Factorio\Factorio\bin\Debug\net5.0\Factorio.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\Factorio\Factorio\obj\Debug\net5.0\Factorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\Factorio\Factorio\obj\Debug\net5.0\Factorio.AssemblyInfoInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\Factorio\Factorio\obj\Debug\net5.0\Factorio.AssemblyInfo.cs
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\Factorio\Factorio\obj\Debug\net5.0\Factorio.csproj.CoreCompileInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\Factorio\Factorio\obj\Debug\net5.0\Factorio.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\Factorio\Factorio\obj\Debug\net5.0\ref\Factorio.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\Factorio\Factorio\obj\Debug\net5.0\Factorio.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\Factorio\Factorio\obj\Debug\net5.0\Factorio.genruntimeconfig.cache

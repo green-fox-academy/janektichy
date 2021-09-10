@@ -1,0 +1,15 @@
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\Summing\Summing\bin\Debug\net5.0\Summing.exe
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\Summing\Summing\bin\Debug\net5.0\Summing.deps.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\Summing\Summing\bin\Debug\net5.0\Summing.runtimeconfig.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\Summing\Summing\bin\Debug\net5.0\Summing.runtimeconfig.dev.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\Summing\Summing\bin\Debug\net5.0\Summing.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\Summing\Summing\bin\Debug\net5.0\ref\Summing.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\Summing\Summing\bin\Debug\net5.0\Summing.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\Summing\Summing\obj\Debug\net5.0\Summing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\Summing\Summing\obj\Debug\net5.0\Summing.AssemblyInfoInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\Summing\Summing\obj\Debug\net5.0\Summing.AssemblyInfo.cs
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\Summing\Summing\obj\Debug\net5.0\Summing.csproj.CoreCompileInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\Summing\Summing\obj\Debug\net5.0\Summing.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\Summing\Summing\obj\Debug\net5.0\ref\Summing.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\Summing\Summing\obj\Debug\net5.0\Summing.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\Summing\Summing\obj\Debug\net5.0\Summing.genruntimeconfig.cache

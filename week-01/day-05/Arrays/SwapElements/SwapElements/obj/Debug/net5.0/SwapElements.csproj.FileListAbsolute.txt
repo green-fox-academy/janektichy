@@ -1,0 +1,15 @@
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\SwapElements\SwapElements\bin\Debug\net5.0\SwapElements.exe
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\SwapElements\SwapElements\bin\Debug\net5.0\SwapElements.deps.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\SwapElements\SwapElements\bin\Debug\net5.0\SwapElements.runtimeconfig.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\SwapElements\SwapElements\bin\Debug\net5.0\SwapElements.runtimeconfig.dev.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\SwapElements\SwapElements\bin\Debug\net5.0\SwapElements.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\SwapElements\SwapElements\bin\Debug\net5.0\ref\SwapElements.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\SwapElements\SwapElements\bin\Debug\net5.0\SwapElements.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\SwapElements\SwapElements\obj\Debug\net5.0\SwapElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\SwapElements\SwapElements\obj\Debug\net5.0\SwapElements.AssemblyInfoInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\SwapElements\SwapElements\obj\Debug\net5.0\SwapElements.AssemblyInfo.cs
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\SwapElements\SwapElements\obj\Debug\net5.0\SwapElements.csproj.CoreCompileInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\SwapElements\SwapElements\obj\Debug\net5.0\SwapElements.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\SwapElements\SwapElements\obj\Debug\net5.0\ref\SwapElements.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\SwapElements\SwapElements\obj\Debug\net5.0\SwapElements.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\SwapElements\SwapElements\obj\Debug\net5.0\SwapElements.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\SubInt\SubInt\bin\Debug\net5.0\SubInt.exe
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\SubInt\SubInt\bin\Debug\net5.0\SubInt.deps.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\SubInt\SubInt\bin\Debug\net5.0\SubInt.runtimeconfig.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\SubInt\SubInt\bin\Debug\net5.0\SubInt.runtimeconfig.dev.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\SubInt\SubInt\bin\Debug\net5.0\SubInt.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\SubInt\SubInt\bin\Debug\net5.0\ref\SubInt.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\SubInt\SubInt\bin\Debug\net5.0\SubInt.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\SubInt\SubInt\obj\Debug\net5.0\SubInt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\SubInt\SubInt\obj\Debug\net5.0\SubInt.AssemblyInfoInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\SubInt\SubInt\obj\Debug\net5.0\SubInt.AssemblyInfo.cs
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\SubInt\SubInt\obj\Debug\net5.0\SubInt.csproj.CoreCompileInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\SubInt\SubInt\obj\Debug\net5.0\SubInt.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\SubInt\SubInt\obj\Debug\net5.0\ref\SubInt.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\SubInt\SubInt\obj\Debug\net5.0\SubInt.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\SubInt\SubInt\obj\Debug\net5.0\SubInt.genruntimeconfig.cache

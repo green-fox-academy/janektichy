@@ -1,0 +1,16 @@
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\DoubleItems\DoubleItems\bin\Debug\net5.0\DoubleItems.exe
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\DoubleItems\DoubleItems\bin\Debug\net5.0\DoubleItems.deps.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\DoubleItems\DoubleItems\bin\Debug\net5.0\DoubleItems.runtimeconfig.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\DoubleItems\DoubleItems\bin\Debug\net5.0\DoubleItems.runtimeconfig.dev.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\DoubleItems\DoubleItems\bin\Debug\net5.0\DoubleItems.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\DoubleItems\DoubleItems\bin\Debug\net5.0\ref\DoubleItems.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\DoubleItems\DoubleItems\bin\Debug\net5.0\DoubleItems.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\DoubleItems\DoubleItems\obj\Debug\net5.0\DoubleItems.csproj.AssemblyReference.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\DoubleItems\DoubleItems\obj\Debug\net5.0\DoubleItems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\DoubleItems\DoubleItems\obj\Debug\net5.0\DoubleItems.AssemblyInfoInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\DoubleItems\DoubleItems\obj\Debug\net5.0\DoubleItems.AssemblyInfo.cs
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\DoubleItems\DoubleItems\obj\Debug\net5.0\DoubleItems.csproj.CoreCompileInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\DoubleItems\DoubleItems\obj\Debug\net5.0\DoubleItems.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\DoubleItems\DoubleItems\obj\Debug\net5.0\ref\DoubleItems.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\DoubleItems\DoubleItems\obj\Debug\net5.0\DoubleItems.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\DoubleItems\DoubleItems\obj\Debug\net5.0\DoubleItems.genruntimeconfig.cache

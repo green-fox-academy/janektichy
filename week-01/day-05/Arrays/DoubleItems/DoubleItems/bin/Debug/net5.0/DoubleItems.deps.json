@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DoubleItems/1.0.0": {
+        "runtime": {
+          "DoubleItems.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DoubleItems/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

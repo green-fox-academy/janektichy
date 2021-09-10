@@ -1,0 +1,15 @@
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\ChangeElement\ChangeElement\bin\Debug\net5.0\ChangeElement.exe
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\ChangeElement\ChangeElement\bin\Debug\net5.0\ChangeElement.deps.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\ChangeElement\ChangeElement\bin\Debug\net5.0\ChangeElement.runtimeconfig.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\ChangeElement\ChangeElement\bin\Debug\net5.0\ChangeElement.runtimeconfig.dev.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\ChangeElement\ChangeElement\bin\Debug\net5.0\ChangeElement.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\ChangeElement\ChangeElement\bin\Debug\net5.0\ref\ChangeElement.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\ChangeElement\ChangeElement\bin\Debug\net5.0\ChangeElement.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\ChangeElement\ChangeElement\obj\Debug\net5.0\ChangeElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\ChangeElement\ChangeElement\obj\Debug\net5.0\ChangeElement.AssemblyInfoInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\ChangeElement\ChangeElement\obj\Debug\net5.0\ChangeElement.AssemblyInfo.cs
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\ChangeElement\ChangeElement\obj\Debug\net5.0\ChangeElement.csproj.CoreCompileInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\ChangeElement\ChangeElement\obj\Debug\net5.0\ChangeElement.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\ChangeElement\ChangeElement\obj\Debug\net5.0\ref\ChangeElement.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\ChangeElement\ChangeElement\obj\Debug\net5.0\ChangeElement.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\ChangeElement\ChangeElement\obj\Debug\net5.0\ChangeElement.genruntimeconfig.cache

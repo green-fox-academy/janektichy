@@ -1,0 +1,15 @@
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\SumAll\SumAll\bin\Debug\net5.0\SumAll.exe
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\SumAll\SumAll\bin\Debug\net5.0\SumAll.deps.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\SumAll\SumAll\bin\Debug\net5.0\SumAll.runtimeconfig.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\SumAll\SumAll\bin\Debug\net5.0\SumAll.runtimeconfig.dev.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\SumAll\SumAll\bin\Debug\net5.0\SumAll.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\SumAll\SumAll\bin\Debug\net5.0\ref\SumAll.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\SumAll\SumAll\bin\Debug\net5.0\SumAll.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\SumAll\SumAll\obj\Debug\net5.0\SumAll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\SumAll\SumAll\obj\Debug\net5.0\SumAll.AssemblyInfoInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\SumAll\SumAll\obj\Debug\net5.0\SumAll.AssemblyInfo.cs
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\SumAll\SumAll\obj\Debug\net5.0\SumAll.csproj.CoreCompileInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\SumAll\SumAll\obj\Debug\net5.0\SumAll.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\SumAll\SumAll\obj\Debug\net5.0\ref\SumAll.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\SumAll\SumAll\obj\Debug\net5.0\SumAll.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\SumAll\SumAll\obj\Debug\net5.0\SumAll.genruntimeconfig.cache

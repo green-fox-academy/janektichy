@@ -1,0 +1,15 @@
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\IncrementElement\IncrementElement\bin\Debug\net5.0\IncrementElement.exe
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\IncrementElement\IncrementElement\bin\Debug\net5.0\IncrementElement.deps.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\IncrementElement\IncrementElement\bin\Debug\net5.0\IncrementElement.runtimeconfig.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\IncrementElement\IncrementElement\bin\Debug\net5.0\IncrementElement.runtimeconfig.dev.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\IncrementElement\IncrementElement\bin\Debug\net5.0\IncrementElement.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\IncrementElement\IncrementElement\bin\Debug\net5.0\ref\IncrementElement.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\IncrementElement\IncrementElement\bin\Debug\net5.0\IncrementElement.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\IncrementElement\IncrementElement\obj\Debug\net5.0\IncrementElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\IncrementElement\IncrementElement\obj\Debug\net5.0\IncrementElement.AssemblyInfoInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\IncrementElement\IncrementElement\obj\Debug\net5.0\IncrementElement.AssemblyInfo.cs
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\IncrementElement\IncrementElement\obj\Debug\net5.0\IncrementElement.csproj.CoreCompileInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\IncrementElement\IncrementElement\obj\Debug\net5.0\IncrementElement.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\IncrementElement\IncrementElement\obj\Debug\net5.0\ref\IncrementElement.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\IncrementElement\IncrementElement\obj\Debug\net5.0\IncrementElement.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\IncrementElement\IncrementElement\obj\Debug\net5.0\IncrementElement.genruntimeconfig.cache

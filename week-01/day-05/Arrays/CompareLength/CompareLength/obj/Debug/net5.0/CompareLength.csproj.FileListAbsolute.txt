@@ -1,0 +1,15 @@
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\CompareLength\CompareLength\obj\Debug\net5.0\CompareLength.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\CompareLength\CompareLength\obj\Debug\net5.0\CompareLength.AssemblyInfoInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\CompareLength\CompareLength\obj\Debug\net5.0\CompareLength.AssemblyInfo.cs
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\CompareLength\CompareLength\obj\Debug\net5.0\CompareLength.csproj.CoreCompileInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\CompareLength\CompareLength\bin\Debug\net5.0\CompareLength.exe
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\CompareLength\CompareLength\bin\Debug\net5.0\CompareLength.deps.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\CompareLength\CompareLength\bin\Debug\net5.0\CompareLength.runtimeconfig.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\CompareLength\CompareLength\bin\Debug\net5.0\CompareLength.runtimeconfig.dev.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\CompareLength\CompareLength\bin\Debug\net5.0\CompareLength.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\CompareLength\CompareLength\bin\Debug\net5.0\ref\CompareLength.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\CompareLength\CompareLength\bin\Debug\net5.0\CompareLength.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\CompareLength\CompareLength\obj\Debug\net5.0\CompareLength.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\CompareLength\CompareLength\obj\Debug\net5.0\ref\CompareLength.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\CompareLength\CompareLength\obj\Debug\net5.0\CompareLength.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\CompareLength\CompareLength\obj\Debug\net5.0\CompareLength.genruntimeconfig.cache

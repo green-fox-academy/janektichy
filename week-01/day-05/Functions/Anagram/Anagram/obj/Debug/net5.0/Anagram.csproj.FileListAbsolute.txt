@@ -1,0 +1,16 @@
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\Anagram\Anagram\obj\Debug\net5.0\Anagram.csproj.AssemblyReference.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\Anagram\Anagram\obj\Debug\net5.0\Anagram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\Anagram\Anagram\obj\Debug\net5.0\Anagram.AssemblyInfoInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\Anagram\Anagram\obj\Debug\net5.0\Anagram.AssemblyInfo.cs
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\Anagram\Anagram\obj\Debug\net5.0\Anagram.csproj.CoreCompileInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\Anagram\Anagram\bin\Debug\net5.0\Anagram.exe
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\Anagram\Anagram\bin\Debug\net5.0\Anagram.deps.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\Anagram\Anagram\bin\Debug\net5.0\Anagram.runtimeconfig.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\Anagram\Anagram\bin\Debug\net5.0\Anagram.runtimeconfig.dev.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\Anagram\Anagram\bin\Debug\net5.0\Anagram.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\Anagram\Anagram\bin\Debug\net5.0\ref\Anagram.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\Anagram\Anagram\bin\Debug\net5.0\Anagram.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\Anagram\Anagram\obj\Debug\net5.0\Anagram.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\Anagram\Anagram\obj\Debug\net5.0\ref\Anagram.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\Anagram\Anagram\obj\Debug\net5.0\Anagram.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\Anagram\Anagram\obj\Debug\net5.0\Anagram.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\AppendA2\AppendA2\bin\Debug\net5.0\AppendA2.exe
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\AppendA2\AppendA2\bin\Debug\net5.0\AppendA2.deps.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\AppendA2\AppendA2\bin\Debug\net5.0\AppendA2.runtimeconfig.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\AppendA2\AppendA2\bin\Debug\net5.0\AppendA2.runtimeconfig.dev.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\AppendA2\AppendA2\bin\Debug\net5.0\AppendA2.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\AppendA2\AppendA2\bin\Debug\net5.0\ref\AppendA2.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\AppendA2\AppendA2\bin\Debug\net5.0\AppendA2.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\AppendA2\AppendA2\obj\Debug\net5.0\AppendA2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\AppendA2\AppendA2\obj\Debug\net5.0\AppendA2.AssemblyInfoInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\AppendA2\AppendA2\obj\Debug\net5.0\AppendA2.AssemblyInfo.cs
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\AppendA2\AppendA2\obj\Debug\net5.0\AppendA2.csproj.CoreCompileInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\AppendA2\AppendA2\obj\Debug\net5.0\AppendA2.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\AppendA2\AppendA2\obj\Debug\net5.0\ref\AppendA2.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\AppendA2\AppendA2\obj\Debug\net5.0\AppendA2.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\AppendA2\AppendA2\obj\Debug\net5.0\AppendA2.genruntimeconfig.cache

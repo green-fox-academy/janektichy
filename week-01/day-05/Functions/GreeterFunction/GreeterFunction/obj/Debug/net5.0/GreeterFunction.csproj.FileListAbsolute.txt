@@ -1,0 +1,15 @@
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\GreeterFunction\GreeterFunction\obj\Debug\net5.0\GreeterFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\GreeterFunction\GreeterFunction\obj\Debug\net5.0\GreeterFunction.AssemblyInfoInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\GreeterFunction\GreeterFunction\obj\Debug\net5.0\GreeterFunction.AssemblyInfo.cs
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\GreeterFunction\GreeterFunction\obj\Debug\net5.0\GreeterFunction.csproj.CoreCompileInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\GreeterFunction\GreeterFunction\bin\Debug\net5.0\GreeterFunction.exe
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\GreeterFunction\GreeterFunction\bin\Debug\net5.0\GreeterFunction.deps.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\GreeterFunction\GreeterFunction\bin\Debug\net5.0\GreeterFunction.runtimeconfig.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\GreeterFunction\GreeterFunction\bin\Debug\net5.0\GreeterFunction.runtimeconfig.dev.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\GreeterFunction\GreeterFunction\bin\Debug\net5.0\GreeterFunction.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\GreeterFunction\GreeterFunction\bin\Debug\net5.0\ref\GreeterFunction.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\GreeterFunction\GreeterFunction\bin\Debug\net5.0\GreeterFunction.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\GreeterFunction\GreeterFunction\obj\Debug\net5.0\GreeterFunction.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\GreeterFunction\GreeterFunction\obj\Debug\net5.0\ref\GreeterFunction.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\GreeterFunction\GreeterFunction\obj\Debug\net5.0\GreeterFunction.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-05\Functions\GreeterFunction\GreeterFunction\obj\Debug\net5.0\GreeterFunction.genruntimeconfig.cache
