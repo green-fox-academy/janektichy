@@ -1,0 +1,16 @@
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\SimpleReplace\SimpleReplace\bin\Debug\net5.0\SimpleReplace.exe
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\SimpleReplace\SimpleReplace\bin\Debug\net5.0\SimpleReplace.deps.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\SimpleReplace\SimpleReplace\bin\Debug\net5.0\SimpleReplace.runtimeconfig.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\SimpleReplace\SimpleReplace\bin\Debug\net5.0\SimpleReplace.runtimeconfig.dev.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\SimpleReplace\SimpleReplace\bin\Debug\net5.0\SimpleReplace.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\SimpleReplace\SimpleReplace\bin\Debug\net5.0\ref\SimpleReplace.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\SimpleReplace\SimpleReplace\bin\Debug\net5.0\SimpleReplace.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\SimpleReplace\SimpleReplace\obj\Debug\net5.0\SimpleReplace.csproj.AssemblyReference.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\SimpleReplace\SimpleReplace\obj\Debug\net5.0\SimpleReplace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\SimpleReplace\SimpleReplace\obj\Debug\net5.0\SimpleReplace.AssemblyInfoInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\SimpleReplace\SimpleReplace\obj\Debug\net5.0\SimpleReplace.AssemblyInfo.cs
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\SimpleReplace\SimpleReplace\obj\Debug\net5.0\SimpleReplace.csproj.CoreCompileInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\SimpleReplace\SimpleReplace\obj\Debug\net5.0\SimpleReplace.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\SimpleReplace\SimpleReplace\obj\Debug\net5.0\ref\SimpleReplace.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\SimpleReplace\SimpleReplace\obj\Debug\net5.0\SimpleReplace.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\SimpleReplace\SimpleReplace\obj\Debug\net5.0\SimpleReplace.genruntimeconfig.cache

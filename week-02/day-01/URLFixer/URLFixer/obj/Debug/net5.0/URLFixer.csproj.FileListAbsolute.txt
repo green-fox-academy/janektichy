@@ -1,0 +1,15 @@
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\URLFixer\URLFixer\bin\Debug\net5.0\URLFixer.exe
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\URLFixer\URLFixer\bin\Debug\net5.0\URLFixer.deps.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\URLFixer\URLFixer\bin\Debug\net5.0\URLFixer.runtimeconfig.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\URLFixer\URLFixer\bin\Debug\net5.0\URLFixer.runtimeconfig.dev.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\URLFixer\URLFixer\bin\Debug\net5.0\URLFixer.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\URLFixer\URLFixer\bin\Debug\net5.0\ref\URLFixer.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\URLFixer\URLFixer\bin\Debug\net5.0\URLFixer.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\URLFixer\URLFixer\obj\Debug\net5.0\URLFixer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\URLFixer\URLFixer\obj\Debug\net5.0\URLFixer.AssemblyInfoInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\URLFixer\URLFixer\obj\Debug\net5.0\URLFixer.AssemblyInfo.cs
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\URLFixer\URLFixer\obj\Debug\net5.0\URLFixer.csproj.CoreCompileInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\URLFixer\URLFixer\obj\Debug\net5.0\URLFixer.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\URLFixer\URLFixer\obj\Debug\net5.0\ref\URLFixer.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\URLFixer\URLFixer\obj\Debug\net5.0\URLFixer.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\URLFixer\URLFixer\obj\Debug\net5.0\URLFixer.genruntimeconfig.cache

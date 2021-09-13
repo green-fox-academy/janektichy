@@ -1,0 +1,15 @@
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\Reverse\Reverse\obj\Debug\net5.0\Reverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\Reverse\Reverse\obj\Debug\net5.0\Reverse.AssemblyInfoInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\Reverse\Reverse\obj\Debug\net5.0\Reverse.AssemblyInfo.cs
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\Reverse\Reverse\obj\Debug\net5.0\Reverse.csproj.CoreCompileInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\Reverse\Reverse\bin\Debug\net5.0\Reverse.exe
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\Reverse\Reverse\bin\Debug\net5.0\Reverse.deps.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\Reverse\Reverse\bin\Debug\net5.0\Reverse.runtimeconfig.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\Reverse\Reverse\bin\Debug\net5.0\Reverse.runtimeconfig.dev.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\Reverse\Reverse\bin\Debug\net5.0\Reverse.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\Reverse\Reverse\bin\Debug\net5.0\ref\Reverse.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\Reverse\Reverse\bin\Debug\net5.0\Reverse.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\Reverse\Reverse\obj\Debug\net5.0\Reverse.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\Reverse\Reverse\obj\Debug\net5.0\ref\Reverse.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\Reverse\Reverse\obj\Debug\net5.0\Reverse.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\Reverse\Reverse\obj\Debug\net5.0\Reverse.genruntimeconfig.cache

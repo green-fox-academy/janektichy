@@ -1,0 +1,16 @@
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\TodoPrint\TodoPrint\obj\Debug\net5.0\TodoPrint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\TodoPrint\TodoPrint\obj\Debug\net5.0\TodoPrint.AssemblyInfoInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\TodoPrint\TodoPrint\obj\Debug\net5.0\TodoPrint.AssemblyInfo.cs
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\TodoPrint\TodoPrint\obj\Debug\net5.0\TodoPrint.csproj.CoreCompileInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\TodoPrint\TodoPrint\bin\Debug\net5.0\TodoPrint.exe
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\TodoPrint\TodoPrint\bin\Debug\net5.0\TodoPrint.deps.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\TodoPrint\TodoPrint\bin\Debug\net5.0\TodoPrint.runtimeconfig.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\TodoPrint\TodoPrint\bin\Debug\net5.0\TodoPrint.runtimeconfig.dev.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\TodoPrint\TodoPrint\bin\Debug\net5.0\TodoPrint.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\TodoPrint\TodoPrint\bin\Debug\net5.0\ref\TodoPrint.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\TodoPrint\TodoPrint\bin\Debug\net5.0\TodoPrint.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\TodoPrint\TodoPrint\obj\Debug\net5.0\TodoPrint.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\TodoPrint\TodoPrint\obj\Debug\net5.0\ref\TodoPrint.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\TodoPrint\TodoPrint\obj\Debug\net5.0\TodoPrint.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\TodoPrint\TodoPrint\obj\Debug\net5.0\TodoPrint.genruntimeconfig.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\TodoPrint\TodoPrint\obj\Debug\net5.0\TodoPrint.csproj.AssemblyReference.cache

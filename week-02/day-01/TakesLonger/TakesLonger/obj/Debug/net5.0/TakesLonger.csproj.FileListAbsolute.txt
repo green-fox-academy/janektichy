@@ -1,0 +1,15 @@
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\TakesLonger\TakesLonger\bin\Debug\net5.0\TakesLonger.exe
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\TakesLonger\TakesLonger\bin\Debug\net5.0\TakesLonger.deps.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\TakesLonger\TakesLonger\bin\Debug\net5.0\TakesLonger.runtimeconfig.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\TakesLonger\TakesLonger\bin\Debug\net5.0\TakesLonger.runtimeconfig.dev.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\TakesLonger\TakesLonger\bin\Debug\net5.0\TakesLonger.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\TakesLonger\TakesLonger\bin\Debug\net5.0\ref\TakesLonger.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\TakesLonger\TakesLonger\bin\Debug\net5.0\TakesLonger.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\TakesLonger\TakesLonger\obj\Debug\net5.0\TakesLonger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\TakesLonger\TakesLonger\obj\Debug\net5.0\TakesLonger.AssemblyInfoInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\TakesLonger\TakesLonger\obj\Debug\net5.0\TakesLonger.AssemblyInfo.cs
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\TakesLonger\TakesLonger\obj\Debug\net5.0\TakesLonger.csproj.CoreCompileInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\TakesLonger\TakesLonger\obj\Debug\net5.0\TakesLonger.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\TakesLonger\TakesLonger\obj\Debug\net5.0\ref\TakesLonger.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\TakesLonger\TakesLonger\obj\Debug\net5.0\TakesLonger.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\TakesLonger\TakesLonger\obj\Debug\net5.0\TakesLonger.genruntimeconfig.cache
