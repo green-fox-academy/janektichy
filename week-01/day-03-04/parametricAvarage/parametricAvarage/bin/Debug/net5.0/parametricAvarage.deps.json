@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "parametricAvarage/1.0.0": {
+        "runtime": {
+          "parametricAvarage.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "parametricAvarage/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

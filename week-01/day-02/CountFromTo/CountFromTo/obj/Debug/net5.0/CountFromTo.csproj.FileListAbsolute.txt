@@ -1,0 +1,15 @@
+C:\Users\Janek\source\repos\CountFromTo\CountFromTo\bin\Debug\net5.0\CountFromTo.exe
+C:\Users\Janek\source\repos\CountFromTo\CountFromTo\bin\Debug\net5.0\CountFromTo.deps.json
+C:\Users\Janek\source\repos\CountFromTo\CountFromTo\bin\Debug\net5.0\CountFromTo.runtimeconfig.json
+C:\Users\Janek\source\repos\CountFromTo\CountFromTo\bin\Debug\net5.0\CountFromTo.runtimeconfig.dev.json
+C:\Users\Janek\source\repos\CountFromTo\CountFromTo\bin\Debug\net5.0\CountFromTo.dll
+C:\Users\Janek\source\repos\CountFromTo\CountFromTo\bin\Debug\net5.0\ref\CountFromTo.dll
+C:\Users\Janek\source\repos\CountFromTo\CountFromTo\bin\Debug\net5.0\CountFromTo.pdb
+C:\Users\Janek\source\repos\CountFromTo\CountFromTo\obj\Debug\net5.0\CountFromTo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janek\source\repos\CountFromTo\CountFromTo\obj\Debug\net5.0\CountFromTo.AssemblyInfoInputs.cache
+C:\Users\Janek\source\repos\CountFromTo\CountFromTo\obj\Debug\net5.0\CountFromTo.AssemblyInfo.cs
+C:\Users\Janek\source\repos\CountFromTo\CountFromTo\obj\Debug\net5.0\CountFromTo.csproj.CoreCompileInputs.cache
+C:\Users\Janek\source\repos\CountFromTo\CountFromTo\obj\Debug\net5.0\CountFromTo.dll
+C:\Users\Janek\source\repos\CountFromTo\CountFromTo\obj\Debug\net5.0\ref\CountFromTo.dll
+C:\Users\Janek\source\repos\CountFromTo\CountFromTo\obj\Debug\net5.0\CountFromTo.pdb
+C:\Users\Janek\source\repos\CountFromTo\CountFromTo\obj\Debug\net5.0\CountFromTo.genruntimeconfig.cache

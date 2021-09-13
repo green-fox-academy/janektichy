@@ -1,0 +1,15 @@
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\ListIntroduction-1\ListIntroduction-1\bin\Debug\net5.0\ListIntroduction-1.exe
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\ListIntroduction-1\ListIntroduction-1\bin\Debug\net5.0\ListIntroduction-1.deps.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\ListIntroduction-1\ListIntroduction-1\bin\Debug\net5.0\ListIntroduction-1.runtimeconfig.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\ListIntroduction-1\ListIntroduction-1\bin\Debug\net5.0\ListIntroduction-1.runtimeconfig.dev.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\ListIntroduction-1\ListIntroduction-1\bin\Debug\net5.0\ListIntroduction-1.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\ListIntroduction-1\ListIntroduction-1\bin\Debug\net5.0\ref\ListIntroduction-1.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\ListIntroduction-1\ListIntroduction-1\bin\Debug\net5.0\ListIntroduction-1.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\ListIntroduction-1\ListIntroduction-1\obj\Debug\net5.0\ListIntroduction-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\ListIntroduction-1\ListIntroduction-1\obj\Debug\net5.0\ListIntroduction-1.AssemblyInfoInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\ListIntroduction-1\ListIntroduction-1\obj\Debug\net5.0\ListIntroduction-1.AssemblyInfo.cs
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\ListIntroduction-1\ListIntroduction-1\obj\Debug\net5.0\ListIntroduction-1.csproj.CoreCompileInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\ListIntroduction-1\ListIntroduction-1\obj\Debug\net5.0\ListIntroduction-1.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\ListIntroduction-1\ListIntroduction-1\obj\Debug\net5.0\ref\ListIntroduction-1.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\ListIntroduction-1\ListIntroduction-1\obj\Debug\net5.0\ListIntroduction-1.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\ListIntroduction-1\ListIntroduction-1\obj\Debug\net5.0\ListIntroduction-1.genruntimeconfig.cache

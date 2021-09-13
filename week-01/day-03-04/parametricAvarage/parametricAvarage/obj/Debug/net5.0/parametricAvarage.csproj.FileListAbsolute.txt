@@ -1,0 +1,16 @@
+C:\Users\Janek\source\repos\parametricAvarage\parametricAvarage\bin\Debug\net5.0\parametricAvarage.exe
+C:\Users\Janek\source\repos\parametricAvarage\parametricAvarage\bin\Debug\net5.0\parametricAvarage.deps.json
+C:\Users\Janek\source\repos\parametricAvarage\parametricAvarage\bin\Debug\net5.0\parametricAvarage.runtimeconfig.json
+C:\Users\Janek\source\repos\parametricAvarage\parametricAvarage\bin\Debug\net5.0\parametricAvarage.runtimeconfig.dev.json
+C:\Users\Janek\source\repos\parametricAvarage\parametricAvarage\bin\Debug\net5.0\parametricAvarage.dll
+C:\Users\Janek\source\repos\parametricAvarage\parametricAvarage\bin\Debug\net5.0\ref\parametricAvarage.dll
+C:\Users\Janek\source\repos\parametricAvarage\parametricAvarage\bin\Debug\net5.0\parametricAvarage.pdb
+C:\Users\Janek\source\repos\parametricAvarage\parametricAvarage\obj\Debug\net5.0\parametricAvarage.csproj.AssemblyReference.cache
+C:\Users\Janek\source\repos\parametricAvarage\parametricAvarage\obj\Debug\net5.0\parametricAvarage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janek\source\repos\parametricAvarage\parametricAvarage\obj\Debug\net5.0\parametricAvarage.AssemblyInfoInputs.cache
+C:\Users\Janek\source\repos\parametricAvarage\parametricAvarage\obj\Debug\net5.0\parametricAvarage.AssemblyInfo.cs
+C:\Users\Janek\source\repos\parametricAvarage\parametricAvarage\obj\Debug\net5.0\parametricAvarage.csproj.CoreCompileInputs.cache
+C:\Users\Janek\source\repos\parametricAvarage\parametricAvarage\obj\Debug\net5.0\parametricAvarage.dll
+C:\Users\Janek\source\repos\parametricAvarage\parametricAvarage\obj\Debug\net5.0\ref\parametricAvarage.dll
+C:\Users\Janek\source\repos\parametricAvarage\parametricAvarage\obj\Debug\net5.0\parametricAvarage.pdb
+C:\Users\Janek\source\repos\parametricAvarage\parametricAvarage\obj\Debug\net5.0\parametricAvarage.genruntimeconfig.cache

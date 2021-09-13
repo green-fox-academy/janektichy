@@ -1,0 +1,16 @@
+C:\Users\Janek\source\repos\PalindromeSearcher\PalindromeSearcher\bin\Debug\net5.0\PalindromeSearcher.exe
+C:\Users\Janek\source\repos\PalindromeSearcher\PalindromeSearcher\bin\Debug\net5.0\PalindromeSearcher.deps.json
+C:\Users\Janek\source\repos\PalindromeSearcher\PalindromeSearcher\bin\Debug\net5.0\PalindromeSearcher.runtimeconfig.json
+C:\Users\Janek\source\repos\PalindromeSearcher\PalindromeSearcher\bin\Debug\net5.0\PalindromeSearcher.runtimeconfig.dev.json
+C:\Users\Janek\source\repos\PalindromeSearcher\PalindromeSearcher\bin\Debug\net5.0\PalindromeSearcher.dll
+C:\Users\Janek\source\repos\PalindromeSearcher\PalindromeSearcher\bin\Debug\net5.0\ref\PalindromeSearcher.dll
+C:\Users\Janek\source\repos\PalindromeSearcher\PalindromeSearcher\bin\Debug\net5.0\PalindromeSearcher.pdb
+C:\Users\Janek\source\repos\PalindromeSearcher\PalindromeSearcher\obj\Debug\net5.0\PalindromeSearcher.csproj.AssemblyReference.cache
+C:\Users\Janek\source\repos\PalindromeSearcher\PalindromeSearcher\obj\Debug\net5.0\PalindromeSearcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janek\source\repos\PalindromeSearcher\PalindromeSearcher\obj\Debug\net5.0\PalindromeSearcher.AssemblyInfoInputs.cache
+C:\Users\Janek\source\repos\PalindromeSearcher\PalindromeSearcher\obj\Debug\net5.0\PalindromeSearcher.AssemblyInfo.cs
+C:\Users\Janek\source\repos\PalindromeSearcher\PalindromeSearcher\obj\Debug\net5.0\PalindromeSearcher.csproj.CoreCompileInputs.cache
+C:\Users\Janek\source\repos\PalindromeSearcher\PalindromeSearcher\obj\Debug\net5.0\PalindromeSearcher.dll
+C:\Users\Janek\source\repos\PalindromeSearcher\PalindromeSearcher\obj\Debug\net5.0\ref\PalindromeSearcher.dll
+C:\Users\Janek\source\repos\PalindromeSearcher\PalindromeSearcher\obj\Debug\net5.0\PalindromeSearcher.pdb
+C:\Users\Janek\source\repos\PalindromeSearcher\PalindromeSearcher\obj\Debug\net5.0\PalindromeSearcher.genruntimeconfig.cache

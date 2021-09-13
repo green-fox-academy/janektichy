@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\day-03\firstExercise\twoNumbers.cs" Link="twoNumbers.cs" />
+    <Compile Include="C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-01\Program.cs" Link="Program.cs" />
+  </ItemGroup>
+
+</Project>

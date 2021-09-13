@@ -1,0 +1,15 @@
+C:\Users\Janek\source\repos\Palindrome-builder\Palindrome-builder\bin\Debug\net5.0\Palindrome-builder.exe
+C:\Users\Janek\source\repos\Palindrome-builder\Palindrome-builder\bin\Debug\net5.0\Palindrome-builder.deps.json
+C:\Users\Janek\source\repos\Palindrome-builder\Palindrome-builder\bin\Debug\net5.0\Palindrome-builder.runtimeconfig.json
+C:\Users\Janek\source\repos\Palindrome-builder\Palindrome-builder\bin\Debug\net5.0\Palindrome-builder.runtimeconfig.dev.json
+C:\Users\Janek\source\repos\Palindrome-builder\Palindrome-builder\bin\Debug\net5.0\Palindrome-builder.dll
+C:\Users\Janek\source\repos\Palindrome-builder\Palindrome-builder\bin\Debug\net5.0\ref\Palindrome-builder.dll
+C:\Users\Janek\source\repos\Palindrome-builder\Palindrome-builder\bin\Debug\net5.0\Palindrome-builder.pdb
+C:\Users\Janek\source\repos\Palindrome-builder\Palindrome-builder\obj\Debug\net5.0\Palindrome-builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janek\source\repos\Palindrome-builder\Palindrome-builder\obj\Debug\net5.0\Palindrome-builder.AssemblyInfoInputs.cache
+C:\Users\Janek\source\repos\Palindrome-builder\Palindrome-builder\obj\Debug\net5.0\Palindrome-builder.AssemblyInfo.cs
+C:\Users\Janek\source\repos\Palindrome-builder\Palindrome-builder\obj\Debug\net5.0\Palindrome-builder.csproj.CoreCompileInputs.cache
+C:\Users\Janek\source\repos\Palindrome-builder\Palindrome-builder\obj\Debug\net5.0\Palindrome-builder.dll
+C:\Users\Janek\source\repos\Palindrome-builder\Palindrome-builder\obj\Debug\net5.0\ref\Palindrome-builder.dll
+C:\Users\Janek\source\repos\Palindrome-builder\Palindrome-builder\obj\Debug\net5.0\Palindrome-builder.pdb
+C:\Users\Janek\source\repos\Palindrome-builder\Palindrome-builder\obj\Debug\net5.0\Palindrome-builder.genruntimeconfig.cache

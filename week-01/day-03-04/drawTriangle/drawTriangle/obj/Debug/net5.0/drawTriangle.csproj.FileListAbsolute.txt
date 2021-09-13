@@ -1,0 +1,15 @@
+C:\Users\Janek\source\repos\drawTriangle\drawTriangle\bin\Debug\net5.0\drawTriangle.exe
+C:\Users\Janek\source\repos\drawTriangle\drawTriangle\bin\Debug\net5.0\drawTriangle.deps.json
+C:\Users\Janek\source\repos\drawTriangle\drawTriangle\bin\Debug\net5.0\drawTriangle.runtimeconfig.json
+C:\Users\Janek\source\repos\drawTriangle\drawTriangle\bin\Debug\net5.0\drawTriangle.runtimeconfig.dev.json
+C:\Users\Janek\source\repos\drawTriangle\drawTriangle\bin\Debug\net5.0\drawTriangle.dll
+C:\Users\Janek\source\repos\drawTriangle\drawTriangle\bin\Debug\net5.0\ref\drawTriangle.dll
+C:\Users\Janek\source\repos\drawTriangle\drawTriangle\bin\Debug\net5.0\drawTriangle.pdb
+C:\Users\Janek\source\repos\drawTriangle\drawTriangle\obj\Debug\net5.0\drawTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janek\source\repos\drawTriangle\drawTriangle\obj\Debug\net5.0\drawTriangle.AssemblyInfoInputs.cache
+C:\Users\Janek\source\repos\drawTriangle\drawTriangle\obj\Debug\net5.0\drawTriangle.AssemblyInfo.cs
+C:\Users\Janek\source\repos\drawTriangle\drawTriangle\obj\Debug\net5.0\drawTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Janek\source\repos\drawTriangle\drawTriangle\obj\Debug\net5.0\drawTriangle.dll
+C:\Users\Janek\source\repos\drawTriangle\drawTriangle\obj\Debug\net5.0\ref\drawTriangle.dll
+C:\Users\Janek\source\repos\drawTriangle\drawTriangle\obj\Debug\net5.0\drawTriangle.pdb
+C:\Users\Janek\source\repos\drawTriangle\drawTriangle\obj\Debug\net5.0\drawTriangle.genruntimeconfig.cache
