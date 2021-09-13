@@ -1,0 +1,16 @@
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\PersonalFinance\PersonalFinance\bin\Debug\net5.0\PersonalFinance.exe
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\PersonalFinance\PersonalFinance\bin\Debug\net5.0\PersonalFinance.deps.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\PersonalFinance\PersonalFinance\bin\Debug\net5.0\PersonalFinance.runtimeconfig.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\PersonalFinance\PersonalFinance\bin\Debug\net5.0\PersonalFinance.runtimeconfig.dev.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\PersonalFinance\PersonalFinance\bin\Debug\net5.0\PersonalFinance.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\PersonalFinance\PersonalFinance\bin\Debug\net5.0\ref\PersonalFinance.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\PersonalFinance\PersonalFinance\bin\Debug\net5.0\PersonalFinance.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\PersonalFinance\PersonalFinance\obj\Debug\net5.0\PersonalFinance.csproj.AssemblyReference.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\PersonalFinance\PersonalFinance\obj\Debug\net5.0\PersonalFinance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\PersonalFinance\PersonalFinance\obj\Debug\net5.0\PersonalFinance.AssemblyInfoInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\PersonalFinance\PersonalFinance\obj\Debug\net5.0\PersonalFinance.AssemblyInfo.cs
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\PersonalFinance\PersonalFinance\obj\Debug\net5.0\PersonalFinance.csproj.CoreCompileInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\PersonalFinance\PersonalFinance\obj\Debug\net5.0\PersonalFinance.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\PersonalFinance\PersonalFinance\obj\Debug\net5.0\ref\PersonalFinance.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\PersonalFinance\PersonalFinance\obj\Debug\net5.0\PersonalFinance.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\PersonalFinance\PersonalFinance\obj\Debug\net5.0\PersonalFinance.genruntimeconfig.cache

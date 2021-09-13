@@ -1,0 +1,16 @@
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\ProductDatabase\ProductDatabase\bin\Debug\net5.0\ProductDatabase.exe
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\ProductDatabase\ProductDatabase\bin\Debug\net5.0\ProductDatabase.deps.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\ProductDatabase\ProductDatabase\bin\Debug\net5.0\ProductDatabase.runtimeconfig.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\ProductDatabase\ProductDatabase\bin\Debug\net5.0\ProductDatabase.runtimeconfig.dev.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\ProductDatabase\ProductDatabase\bin\Debug\net5.0\ProductDatabase.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\ProductDatabase\ProductDatabase\bin\Debug\net5.0\ref\ProductDatabase.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\ProductDatabase\ProductDatabase\bin\Debug\net5.0\ProductDatabase.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\ProductDatabase\ProductDatabase\obj\Debug\net5.0\ProductDatabase.csproj.AssemblyReference.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\ProductDatabase\ProductDatabase\obj\Debug\net5.0\ProductDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\ProductDatabase\ProductDatabase\obj\Debug\net5.0\ProductDatabase.AssemblyInfoInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\ProductDatabase\ProductDatabase\obj\Debug\net5.0\ProductDatabase.AssemblyInfo.cs
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\ProductDatabase\ProductDatabase\obj\Debug\net5.0\ProductDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\ProductDatabase\ProductDatabase\obj\Debug\net5.0\ProductDatabase.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\ProductDatabase\ProductDatabase\obj\Debug\net5.0\ref\ProductDatabase.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\ProductDatabase\ProductDatabase\obj\Debug\net5.0\ProductDatabase.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\ProductDatabase\ProductDatabase\obj\Debug\net5.0\ProductDatabase.genruntimeconfig.cache

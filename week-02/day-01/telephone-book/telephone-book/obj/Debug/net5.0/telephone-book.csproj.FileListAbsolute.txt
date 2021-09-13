@@ -1,0 +1,15 @@
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\telephone-book\telephone-book\bin\Debug\net5.0\telephone-book.exe
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\telephone-book\telephone-book\bin\Debug\net5.0\telephone-book.deps.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\telephone-book\telephone-book\bin\Debug\net5.0\telephone-book.runtimeconfig.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\telephone-book\telephone-book\bin\Debug\net5.0\telephone-book.runtimeconfig.dev.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\telephone-book\telephone-book\bin\Debug\net5.0\telephone-book.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\telephone-book\telephone-book\bin\Debug\net5.0\ref\telephone-book.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\telephone-book\telephone-book\bin\Debug\net5.0\telephone-book.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\telephone-book\telephone-book\obj\Debug\net5.0\telephone-book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\telephone-book\telephone-book\obj\Debug\net5.0\telephone-book.AssemblyInfoInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\telephone-book\telephone-book\obj\Debug\net5.0\telephone-book.AssemblyInfo.cs
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\telephone-book\telephone-book\obj\Debug\net5.0\telephone-book.csproj.CoreCompileInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\telephone-book\telephone-book\obj\Debug\net5.0\telephone-book.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\telephone-book\telephone-book\obj\Debug\net5.0\ref\telephone-book.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\telephone-book\telephone-book\obj\Debug\net5.0\telephone-book.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\telephone-book\telephone-book\obj\Debug\net5.0\telephone-book.genruntimeconfig.cache

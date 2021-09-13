@@ -1,0 +1,16 @@
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\MapIntroduction-2\MapIntroduction-2\bin\Debug\net5.0\MapIntroduction-2.exe
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\MapIntroduction-2\MapIntroduction-2\bin\Debug\net5.0\MapIntroduction-2.deps.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\MapIntroduction-2\MapIntroduction-2\bin\Debug\net5.0\MapIntroduction-2.runtimeconfig.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\MapIntroduction-2\MapIntroduction-2\bin\Debug\net5.0\MapIntroduction-2.runtimeconfig.dev.json
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\MapIntroduction-2\MapIntroduction-2\bin\Debug\net5.0\MapIntroduction-2.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\MapIntroduction-2\MapIntroduction-2\bin\Debug\net5.0\ref\MapIntroduction-2.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\MapIntroduction-2\MapIntroduction-2\bin\Debug\net5.0\MapIntroduction-2.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\MapIntroduction-2\MapIntroduction-2\obj\Debug\net5.0\MapIntroduction-2.csproj.AssemblyReference.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\MapIntroduction-2\MapIntroduction-2\obj\Debug\net5.0\MapIntroduction-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\MapIntroduction-2\MapIntroduction-2\obj\Debug\net5.0\MapIntroduction-2.AssemblyInfoInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\MapIntroduction-2\MapIntroduction-2\obj\Debug\net5.0\MapIntroduction-2.AssemblyInfo.cs
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\MapIntroduction-2\MapIntroduction-2\obj\Debug\net5.0\MapIntroduction-2.csproj.CoreCompileInputs.cache
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\MapIntroduction-2\MapIntroduction-2\obj\Debug\net5.0\MapIntroduction-2.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\MapIntroduction-2\MapIntroduction-2\obj\Debug\net5.0\ref\MapIntroduction-2.dll
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\MapIntroduction-2\MapIntroduction-2\obj\Debug\net5.0\MapIntroduction-2.pdb
+C:\Users\Janek\Documents\coding\Greenfox\janektichy\week-02\day-01\MapIntroduction-2\MapIntroduction-2\obj\Debug\net5.0\MapIntroduction-2.genruntimeconfig.cache
