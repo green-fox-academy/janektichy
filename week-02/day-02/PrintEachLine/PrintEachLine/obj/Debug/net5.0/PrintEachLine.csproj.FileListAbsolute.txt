@@ -1,0 +1,16 @@
+C:\Users\Janek\source\repos\PrintEachLine\PrintEachLine\bin\Debug\net5.0\PrintEachLine.exe
+C:\Users\Janek\source\repos\PrintEachLine\PrintEachLine\bin\Debug\net5.0\PrintEachLine.deps.json
+C:\Users\Janek\source\repos\PrintEachLine\PrintEachLine\bin\Debug\net5.0\PrintEachLine.runtimeconfig.json
+C:\Users\Janek\source\repos\PrintEachLine\PrintEachLine\bin\Debug\net5.0\PrintEachLine.runtimeconfig.dev.json
+C:\Users\Janek\source\repos\PrintEachLine\PrintEachLine\bin\Debug\net5.0\PrintEachLine.dll
+C:\Users\Janek\source\repos\PrintEachLine\PrintEachLine\bin\Debug\net5.0\ref\PrintEachLine.dll
+C:\Users\Janek\source\repos\PrintEachLine\PrintEachLine\bin\Debug\net5.0\PrintEachLine.pdb
+C:\Users\Janek\source\repos\PrintEachLine\PrintEachLine\obj\Debug\net5.0\PrintEachLine.csproj.AssemblyReference.cache
+C:\Users\Janek\source\repos\PrintEachLine\PrintEachLine\obj\Debug\net5.0\PrintEachLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janek\source\repos\PrintEachLine\PrintEachLine\obj\Debug\net5.0\PrintEachLine.AssemblyInfoInputs.cache
+C:\Users\Janek\source\repos\PrintEachLine\PrintEachLine\obj\Debug\net5.0\PrintEachLine.AssemblyInfo.cs
+C:\Users\Janek\source\repos\PrintEachLine\PrintEachLine\obj\Debug\net5.0\PrintEachLine.csproj.CoreCompileInputs.cache
+C:\Users\Janek\source\repos\PrintEachLine\PrintEachLine\obj\Debug\net5.0\PrintEachLine.dll
+C:\Users\Janek\source\repos\PrintEachLine\PrintEachLine\obj\Debug\net5.0\ref\PrintEachLine.dll
+C:\Users\Janek\source\repos\PrintEachLine\PrintEachLine\obj\Debug\net5.0\PrintEachLine.pdb
+C:\Users\Janek\source\repos\PrintEachLine\PrintEachLine\obj\Debug\net5.0\PrintEachLine.genruntimeconfig.cache
