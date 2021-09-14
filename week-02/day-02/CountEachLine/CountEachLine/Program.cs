@@ -7,7 +7,7 @@ namespace CountEachLine
     {
         static void Main(string[] args)
         {
-            string fileName = "/textfile.txt";
+            string fileName = "textfile.txt";
 
             try
             {
@@ -18,7 +18,6 @@ namespace CountEachLine
             catch (Exception)
             {
                 Console.WriteLine("There is no text in the file");
-                throw;
             }
 
 
