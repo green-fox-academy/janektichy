@@ -19,7 +19,7 @@ namespace Av
             var canvas = this.Get<Canvas>("canvas");
             var foxDraw = new FoxDraw(canvas);
 
-            int size = 3;
+            int size = 40;
             int canvasLength = 800 / size;
 
             for (int y = 0; y <= 800; y+=canvasLength)
