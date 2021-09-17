@@ -19,9 +19,9 @@ namespace Av
             var canvas = this.Get<Canvas>("canvas");
             var foxDraw = new FoxDraw(canvas);
 
-            DrawTree(foxDraw, 400, 700);
+            DrawTree(foxDraw, 400, 700, 50);
         }
-        public static void DrawTree(FoxDraw foxDraw, int x, int y, int n = 7, int c = 0)
+        public static void DrawTree(FoxDraw foxDraw, int x, int y, int size, int n = 7)
         {
             if (n == 0)
             {
@@ -29,8 +29,8 @@ namespace Av
             }
             else
             {
-                foxDraw.DrawLine(x, y, c, y - 50);
-                DrawTree(foxDraw, x - c, y - 50, --n, c + 5);
+                foxDraw.DrawLine(x, y, x, y - size);
+                DrawTree(foxDraw, x + size, y + size, size - size / 20, --n);
             }
         }
 

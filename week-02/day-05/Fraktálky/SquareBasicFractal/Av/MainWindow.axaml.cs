@@ -22,24 +22,20 @@ namespace Av
             SquareFractal(foxDraw, 0,0, 800);
 
         }
-        public static void SquareFractal(FoxDraw foxDraw, int x, int y, int size, int n = 4)
+        public static void SquareFractal(FoxDraw foxDraw, int x, int y, int size, int n = 6)
         {
-            
+            foxDraw.SetBackgroundColor(Colors.Yellow);
             if (n == 0)
             {   
                 return;
             }
+            else
             {
-                for (int j = 0; j < 3; ++j, y += size / 3)
-                {
-                    for (int i = 0; i < 3; ++i, x+=size/3)
-                    {
-                        DrawSquare(foxDraw, x, y, size/3);
-                    }
-                    x = 0;
-                }
-                y = 0;
-                SquareFractal(foxDraw, x, y, size/3, --n);
+                DrawSquare(foxDraw, x, y, size);
+                SquareFractal(foxDraw, x + size/3, y, size/3,n-1);
+                SquareFractal(foxDraw, x, y+ size/3, size / 3,n-1);
+                SquareFractal(foxDraw, x + 2*(size/3), y+size/3, size / 3,n-1);
+                SquareFractal(foxDraw, x + size / 3, y + 2*(size/3), size / 3,n-1);
             }
 
         }
