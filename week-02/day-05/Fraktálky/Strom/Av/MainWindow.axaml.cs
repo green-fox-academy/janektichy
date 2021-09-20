@@ -30,7 +30,7 @@ namespace Av
             else
             {
                 foxDraw.DrawLine(x, y, x, y - size);
-                DrawTree(foxDraw, x + size, y + size, size - size / 20, --n);
+                DrawTree(foxDraw, x + size, y - size, size - size / 20, --n);
             }
         }
 

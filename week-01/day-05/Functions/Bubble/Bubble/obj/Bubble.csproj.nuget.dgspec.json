@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Janek\\source\\repos\\Bubble\\Bubble\\Bubble.csproj": {}
+    "C:\\Users\\Janek\\Documents\\coding\\Greenfox\\janektichy\\week-01\\day-05\\Functions\\Bubble\\Bubble\\Bubble.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Janek\\source\\repos\\Bubble\\Bubble\\Bubble.csproj": {
+    "C:\\Users\\Janek\\Documents\\coding\\Greenfox\\janektichy\\week-01\\day-05\\Functions\\Bubble\\Bubble\\Bubble.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Janek\\source\\repos\\Bubble\\Bubble\\Bubble.csproj",
+        "projectUniqueName": "C:\\Users\\Janek\\Documents\\coding\\Greenfox\\janektichy\\week-01\\day-05\\Functions\\Bubble\\Bubble\\Bubble.csproj",
         "projectName": "Bubble",
-        "projectPath": "C:\\Users\\Janek\\source\\repos\\Bubble\\Bubble\\Bubble.csproj",
+        "projectPath": "C:\\Users\\Janek\\Documents\\coding\\Greenfox\\janektichy\\week-01\\day-05\\Functions\\Bubble\\Bubble\\Bubble.csproj",
         "packagesPath": "C:\\Users\\Janek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Janek\\source\\repos\\Bubble\\Bubble\\obj\\",
+        "outputPath": "C:\\Users\\Janek\\Documents\\coding\\Greenfox\\janektichy\\week-01\\day-05\\Functions\\Bubble\\Bubble\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

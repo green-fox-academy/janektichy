@@ -20,10 +20,7 @@ namespace Bubble
                     if (array[i]>array[j])
                     {
                         isBigger++;
-                        
-
                     }
-                    
                 }
                 sorted[isBigger] = array[i];
                
@@ -31,7 +28,7 @@ namespace Bubble
             }
             for (int i = 0; i < sorted.Length; i++)
             {
-                Console.WriteLine(sorted[i]);
+                Console.Write(sorted[i] + ", ");
             }
 
         }
