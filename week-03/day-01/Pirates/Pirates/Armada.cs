@@ -13,7 +13,7 @@ namespace Pirates
         public void FillArmy()
         {
             var random = new Random();
-            int armySize = random.Next(0, 15);
+            int armySize = random.Next(2, 15);
             for (int i = 0; i < armySize; i++)
             {
                 int captainRum = random.Next(10, 20);
@@ -21,39 +21,44 @@ namespace Pirates
                 Ship ship = new Ship(captainRum, crewRum);
                 ship.FillShip();
                 this.army.Add(ship);
-                Console.WriteLine(ship.ship.Count);
+                Console.WriteLine($"{i+1}. ship has {ship.ship.Count} pirates in the crew.");
             }
         }
         public bool BattleArmy(Armada secondArmy)
         {
-            int i = this.army.Count-1;
-            int j = secondArmy.army.Count-1;
-            while (j != 1 || i != 1)
+            int i = this.army.Count - 1;
+            int j = secondArmy.army.Count - 1;
+            Console.WriteLine();
+            Console.WriteLine("The Battle begins!");
+            Console.WriteLine();
+
+            while (j != -1 && i != -1)
             {
-                for (; i > 0;)
+                bool win = this.army[i].Battle(secondArmy.army[j]);
+                if (win)
                 {
-                    for (; j > 0;)
-                    {
-                        bool win = this.army[i].Battle(secondArmy.army[j]);
-                        if (win)
-                        {
-                            j--;
-                        }
-                        else
-                        {
-                            i--;
-                        }
-                    }
+                    Console.WriteLine("Ship of the first army has won the battle");
+                    Console.WriteLine();
+                    --j;
                 }
-            }
-            if (j == 1)
+                else
+                {
+                    Console.WriteLine("Ship of the second army has won the battle");
+                    Console.WriteLine();
+                    --i;
+                }
+            } 
+
+
+
+                if (j == -1)
             {
-                Console.WriteLine($"The other army has won with {secondArmy.army.Count - j}");
+                Console.WriteLine($"First army has won with {i+1} ships remaining");
                 return true;
             }
             else
             {
-                Console.WriteLine($"Your army has won with {this.army.Count - i} ships left");
+                Console.WriteLine($"Second army has won with {j+1} ships remaining");
                 return false;
             }
         }

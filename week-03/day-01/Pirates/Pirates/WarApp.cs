@@ -18,9 +18,6 @@ namespace Pirates
             army2.FillArmy();
 
             army.BattleArmy(army2);
-
-            
-
         }
     }
 }
