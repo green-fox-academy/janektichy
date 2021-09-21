@@ -18,7 +18,7 @@ namespace Av
 
             var canvas = this.Get<Canvas>("canvas");
             var foxDraw = new FoxDraw(canvas);
-            MakeSquareFractal(foxDraw, 400, 400, 300, 5, 20);
+            MakeSquareFractal(foxDraw, 400, 400, 390, 5, 20);
         }
         public static void MakeSquare(FoxDraw foxDraw, double x, double y, double side, int strokeThickness)
         {

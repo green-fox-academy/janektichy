@@ -19,7 +19,7 @@ namespace Av
             var canvas = this.Get<Canvas>("canvas");
             var foxDraw = new FoxDraw(canvas);
 
-            MakeSquareFractal(foxDraw, 400, 400, 300,5);
+            MakeSquareFractal(foxDraw, 400, 400, 390,4);
         }
         public static void MakeSquare(FoxDraw foxDraw, double x, double y, double side)
         {
@@ -38,11 +38,6 @@ namespace Av
 
                 return;
             }
-           /* else if (depth == 1)
-            {
-                foxDraw.SetFillColor(Colors.Black);
-                MakeSquareFractal(foxDraw, x, y, side / 3, depth - 1);
-            }*/
             else
             {
                 foxDraw.SetFillColor(Colors.Transparent);
