@@ -21,24 +21,31 @@ namespace IComparable
         }
         public List<Domino> Sort(List<Domino> dominoes)
         {
-            List<Domino> sorted = new List<Domino>();
-            int isBigger = 0;
-            for (int i = 0; i < dominoes.Count; i++)
+            Domino checkPoint = new Domino(0, 0);
+            for (int j = 0; j < dominoes.Count; j++)
             {
-                for (int j = 0; j < dominoes.Count; j++)
+                for (int i = 0; i < dominoes.Count - 1; i++)
                 {
-                    if (dominoes[i].Values[0] > dominoes[j].Values[0])
+                    if (dominoes[i + 1].Compare(dominoes[i]))
                     {
-                        isBigger++;
-                    }
-                    else if (dominoes[i].Values[0] == dominoes[j].Values[1] && dominoes[i].Values[1] > dominoes[j].Values[1])
-                    {
-                        isBigger++;
+                        checkPoint = dominoes[i];
+                        dominoes[i] = dominoes[i + 1];
+                        dominoes[i + 1] = checkPoint;
                     }
                 }
-                sorted.Insert(isBigger, dominoes[i]);
             }
-            return sorted;
+            return dominoes;
+        }
+        public bool Compare(Domino secondDomino)
+        {
+          if (this.Values[0] > secondDomino.Values[0] || (this.Values[0] == secondDomino.Values[0]) && (this.Values[1] > secondDomino.Values[1]))
+            {
+                return true;
+            }
+          else
+            {
+                return false;
+            }
         }
     }
 }

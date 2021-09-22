@@ -8,6 +8,6 @@ namespace IComparable
 {
     interface IComparable
     {
-        public List<Domino> Sort(List<Domino> dominos);
+        public bool Compare(Domino domino);
     }
 }

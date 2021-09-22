@@ -8,7 +8,7 @@ namespace IComparable
         public static void Main(string[] args)
         {
             var dominoes = InitializeDominoes();
-            dominoes.Sort();
+            dominoes[0].Sort(dominoes);
             foreach (var domino in dominoes)
             {
                 Console.WriteLine($"{domino.Values[0]}, {domino.Values[1]}");
@@ -26,6 +26,7 @@ namespace IComparable
             dominoes.Add(new Domino(6, 7));
             dominoes.Add(new Domino(2, 4));
             dominoes.Add(new Domino(7, 1));
+            dominoes.Add(new Domino(6, 2));
             return dominoes;
         }
     }
