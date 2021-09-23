@@ -19,7 +19,7 @@ namespace Av
             var canvas = this.Get<Canvas>("canvas");
             var foxDraw = new FoxDraw(canvas);
 
-            MakeHexagonFractal(foxDraw, 200, 50, 350, 7);
+            MakeHexagonFractal(foxDraw, 200, 50, 250, 6);
         }
         public static void DrawHexagon(FoxDraw foxDraw, double startX, double startY, double side)
         {
