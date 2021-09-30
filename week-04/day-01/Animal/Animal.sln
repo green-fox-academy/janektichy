@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animal", "Animal\Animal.csproj", "{5F5BC9B0-4519-4800-9A1D-52E53404D18A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalTest", "AnimalTest\AnimalTest.csproj", "{FB0A1BC3-4CB4-412F-B89F-C9A1F0491C76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F5BC9B0-4519-4800-9A1D-52E53404D18A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F5BC9B0-4519-4800-9A1D-52E53404D18A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F5BC9B0-4519-4800-9A1D-52E53404D18A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F5BC9B0-4519-4800-9A1D-52E53404D18A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB0A1BC3-4CB4-412F-B89F-C9A1F0491C76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB0A1BC3-4CB4-412F-B89F-C9A1F0491C76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB0A1BC3-4CB4-412F-B89F-C9A1F0491C76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB0A1BC3-4CB4-412F-B89F-C9A1F0491C76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84C68D3B-EE09-4C77-B1E7-CAAFEFCC6ABE}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum", "Sum\Sum.csproj", "{474CF374-4957-4FD8-9FD1-AE86014B751D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumMain", "SumMain\SumMain.csproj", "{719F5128-F14B-4633-B45E-6CB1F260E8EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{474CF374-4957-4FD8-9FD1-AE86014B751D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{474CF374-4957-4FD8-9FD1-AE86014B751D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{474CF374-4957-4FD8-9FD1-AE86014B751D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{474CF374-4957-4FD8-9FD1-AE86014B751D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{719F5128-F14B-4633-B45E-6CB1F260E8EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{719F5128-F14B-4633-B45E-6CB1F260E8EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{719F5128-F14B-4633-B45E-6CB1F260E8EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{719F5128-F14B-4633-B45E-6CB1F260E8EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49811F99-2328-41D1-8A9A-5230AA96EFFB}
+	EndGlobalSection
+EndGlobal
