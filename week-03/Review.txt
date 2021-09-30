@@ -1,0 +1,65 @@
+review
+
+day 5
+
+animals
+
+throw new NotImplementedException(); je odvazny. Pri ladeni  je to ok, ale bylo by fajn si tam do message dat z jaky funkce to vylitlo.
+Jednou v praci do produkce to spis nedavej
+
+
+
+Console.Write("wants child from an egg");
+            Console.WriteLine();
+muze bejt jedna radka, zejo :)
+
+
+protected int numberOfBoobs; :))
+
+
+        public override void GetName()
+        {
+            Console.Write(this.name);
+        }
+tohle neni spravn pojmenovany, kdyz se fce jmenuje GetNeco tak to ma neco vracet, ne tisknout   
+
+ale jsou to vsechno drobnosti, je to ok.
+
+
+Reservations
+
+Random random = new Random(); bys mel obecne volat jen jednou za celej program. Pokud ti tam zije tech objektu vic, muze to delat nejaky necekany a tezko nalezitelny chyby
+
+jinak ok  	
+
+Instruments
+
+treba v bassuitar Play() vdiim ze mas ten samej obsah jako v predkovi, je to tak? tak to nemusis opisovat, samo se to zdedi
+koukni se znova jak to bylo v zadani
+
+den 4 
+comparable.
+tam nebylo za ukol psat vlastni sort, ale jestli ti to funguje tak nic proti nicemu
+To samotny compare je napsany trochu necitelne, tole je zrovna pripad kdyz se nevyplati setrit radky
+
+Cloneable
+        public Student(string name, int age, string gender, string previousOrganization)
+        {
+            this.previousOrganization = previousOrganization;
+            this.skippedDays = 0;
+            this.name = base.name;
+            this.gender = base.gender;
+            this.age = base.age;
+        }
+
+tdy si mel pouzit volani constructoru predka aka
+
+        public Student(string name, int age, string gender, string previousOrganization): base(name,age,gender)
+        {
+            this.previousOrganization = previousOrganization;
+            this.skippedDays = 0;
+        }
+
+
+
+Celkoe celkove to mas vsechno super, co pisu jsou jen drobnosti. Jses na spicce tridy. Vyuzij ten cas navic aby es ucil ty temata vic do hloubky. Preju peknou zkousku
