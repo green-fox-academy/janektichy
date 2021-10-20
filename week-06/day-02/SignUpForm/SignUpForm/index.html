@@ -1,0 +1,32 @@
+﻿
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link href="style.css" rel="stylesheet" />
+</head>
+<body>
+    <main>
+        <form id="lines" action="https://newsletter-ws.herokuapp.com/register" method="post">
+            <h1>Sign Up</h1>
+            <label id="name">Username</label>
+            <input class="line" type="text" name="name" id="name"/>
+            <label id="email">Email</label>
+            <input class="line" type="email" name="email" id="email"/>
+            <label id="password">Password</label>
+            <input class="line" type="password" name="password" id="password"/>
+            <label id="passwordConf">Retype Password</label>
+            <input class="line" type="password" name="passwordConfirmation" id="passwordConf"/>
+            <button id="signUpButton" type="submit">Sign Me Up</button>
+        </form>
+        <button id="orButton">OR</button>
+        <form id="buttons" action="https://newsletter-ws.herokuapp.com/register" method="post">
+            <button id="fb" class="linkButton">Log in with Facebook</button>
+            <button id="tw" class="linkButton">Log in with Twitter</button="linkButton">
+            <button id="go" class="linkButton">Log in with Google</button="linkButton">
+        </form>
+    </main>
+</body>
+</html>

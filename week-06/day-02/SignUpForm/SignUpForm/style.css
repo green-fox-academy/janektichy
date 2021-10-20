@@ -1,0 +1,109 @@
+﻿
+body{
+    background-color:grey;
+}
+h1{
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+label{
+    font-family: sans-serif;
+    color: grey;
+}
+main{
+    display:flex;
+    position: absolute;
+    top: 30px;
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 10px;
+    background-color: white;
+}
+#lines {
+    display: flex;
+    flex-direction: column;
+    width: 270px;
+    margin: 50px;
+    margin-top: 20px;
+}
+#buttons {
+    display: flex;
+    flex-direction: column;
+    width: 270px;
+    margin: 25px;
+    height: 150px;
+    justify-content: space-between;
+    outline: none;
+    margin-top: 150px;
+}
+.line {
+    margin-bottom: 25px;
+    border: none;
+    border-bottom: 2px solid lightgrey;
+}
+.line:focus {
+    outline: none;
+    border-bottom: 3px solid mediumseagreen;
+}
+#fb{
+    background-color: darkblue;
+}
+#tw{
+    background-color: dodgerblue;
+}
+#go{
+    background-color: red;
+}
+.linkButton {
+    height: 40px;
+    color: white;
+    outline: none;
+    border: none;
+    border-radius: 2px;
+    font-weight: bold;
+}
+.linkButton:hover {
+    color: black;
+    cursor: pointer;
+}
+#signUpButton {
+    margin-top: 20px;
+    background-color: mediumseagreen;
+    color: white;
+    text-align: center;
+    width: 100px;
+    height: 30px;
+    border-radius: 2px;
+    outline: none;
+    border: none;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+#signUpButton:hover{
+    background-color:black;
+    color: mediumseagreen;
+    cursor: pointer;
+}
+#orButton {
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 100%;
+    height: 42px;
+    width: 42px;
+    color: black;
+    font-weight: lighter;
+    background-color: lightgrey;
+    position: absolute;
+    left: 48.5%;
+    top: 50%;
+    transform: translateX(-50%); 
+    transform: translateY(-50%);
+    outline: none;
+    border: none;
+}
+#orButton:hover{
+    background-color: dimgray;
+    color: white;
+    cursor: pointer;
+}

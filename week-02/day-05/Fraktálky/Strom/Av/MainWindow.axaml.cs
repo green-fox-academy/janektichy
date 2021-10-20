@@ -38,8 +38,8 @@ namespace Av
 
                 foxDraw.DrawLine(x, y, x2, y2);
                 DrawTree(foxDraw, x2, y2, x2 + vektorX, y2 + vektorY, depth - 1);
-                DrawTree(foxDraw, x2, y2, x2 + 0.8*(vektorX + reversedVectorX), y2 + 0.8*(vektorY - reversedVectorY), depth - 1);
-                DrawTree(foxDraw, x2, y2, x2 + 0.8*(vektorX - reversedVectorX), y2 + 0.8*(vektorY + reversedVectorY), depth - 1);
+                DrawTree(foxDraw, x2, y2, x2 + 0.5*(vektorX + reversedVectorX), y2 + 0.5*(vektorY - reversedVectorY), depth - 1);
+                DrawTree(foxDraw, x2, y2, x2 + 0.5*(vektorX - reversedVectorX), y2 + 0.5*(vektorY + reversedVectorY), depth - 1);
 
             }
         }
