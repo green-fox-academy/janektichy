@@ -1,0 +1,139 @@
+﻿@model BankOfSimba.ModelViews.BankAccountsViewModel
+@{string fontColor = "";}
+@{ string isGoodOrBad;}
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <div id="tabulka">
+        <table>
+            <tr>
+                <th></th>
+                <th>Owner name</th>
+                <th>Account Balance</th>
+                <th>Owner Animal type</th>
+                <th>Is Owner Good or Bad</th>
+            </tr>
+
+            @for (int i = 0; i < Model.BankAccounts.Count; i++)
+            {
+                <tr>
+                    @if (Model.BankAccounts[i].IsKing)
+                    {
+                        fontColor = "orange";
+                    }
+                    else
+                    {
+                        fontColor = "black";
+                    }
+                    <td>@(i+1).</td>
+                    <td style="color: @fontColor">@Model.BankAccounts[i].Name</td>
+                    <td>@Model.BankAccounts[i].Balance</td>
+                    <td>@Model.BankAccounts[i].AnimalType</td>
+                    <td>
+                        @if (Model.BankAccounts[i].IsGood)
+                        {
+                            isGoodOrBad = "Is Good";
+                        }
+                        else
+                        {
+                            isGoodOrBad = "Is Bad";
+                        }
+                        @isGoodOrBad
+                    </td>
+                </tr>
+            }
+        </table>
+        <div id="cudliky">
+                @for (int i = 0; i < Model.BankAccounts.Count; i++)
+                {
+                    <form action="increaseBalance/pay" method="post">
+                        <input type="hidden" name="accountIndex" value="@i" />
+                        <button class="incCudl">Increase Balance</button>
+                    </form>
+                }
+        </div>
+    </div>
+    <form action="addAcc/create" method="post">
+        <input class="toAdd" type="text" name="name" id="name"/>
+        <input class="toAdd" type="number" name="balance" id="balance"/>
+        <input class="toAdd" type="text" name="animalType" id="animalType"/>
+        <input class="toAdd" type="text" name="isGood" id="isGood" />
+        <button id="addAccBut" type="submit">Add Account</button>
+    </form>
+</body>
+</html>
+<style>
+    table, td, tr, th{
+        border: 1px solid black;
+        border-collapse: collapse;
+    }
+    td, th {
+        padding: 5px;
+        font-size: 35px;
+        font-family: 'Comic Sans MS';
+    }
+    tr:nth-child(even){
+        background-color: lightgrey;
+    }
+    #tabulka{
+        display: flex;
+        flex-direction: row;
+    }
+    #cudliky{
+        display: flex;
+        justify-content: space-between;
+        padding-top: 70px;
+        flex-direction: column;
+        margin-left: 25px;
+    }
+    .incCudl{
+        height: 40px;
+        width: 80px;
+        border-radius: 5px;
+        outline: none;
+        background: green;
+        color: white;
+        text-align: center;
+    }
+    .incCudl:hover{
+        cursor:pointer;
+        color: green;
+        background: black;
+        border: 3px solid green;
+    }
+    #name{
+        margin-left: 40px;
+        width: 220px;
+    }
+    #balance{
+        width: 280px;
+    }
+    #animalType{
+        width: 320px;
+    }
+    #isGood {
+        width: 400px;
+    }
+    .toAdd {
+        height: 80px;
+        font-size: 35px;
+        font-family: 'Comic Sans MS';
+    }
+    #addAccBut {
+        height: 40px;
+        width: 80px;
+        border-radius: 5px;
+        outline: none;
+        background: green;
+        color: white;
+        text-align: center;
+    }
+    #addAccBut:hover {
+        border: 3px solid green;
+        color: green;
+        background-color: black;
+        cursor: pointer;
+    }  
+</style>
