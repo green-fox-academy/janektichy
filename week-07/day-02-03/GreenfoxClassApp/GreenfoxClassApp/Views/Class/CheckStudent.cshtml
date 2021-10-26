@@ -1,0 +1,44 @@
+﻿@model int
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <form id="checkForm" action="check" method="get">
+        <label id="name">Check student</label>
+        <input type="text" name="name" id="name" />
+        <button type="submit">Check</button>
+    </form>
+    @if (Model == 1)
+    {
+        <p id="message">This student already registred</p>
+    }
+    else if (Model == 2)
+    {
+        <p id="message">This student is not registred yet</p>
+    }
+</body>
+</html>
+<style>
+    #checkForm{
+        display: flex;
+        flex-direction: row;
+        width: 400px;
+        justify-content: space-between;
+        font-size: 30px;
+    }
+    #checkForm button{
+        border-radius: 10px;
+        outline: none;
+        background-color: black;
+        color: white;
+    }
+    #checkForm button:hover{
+        background-color: white;
+        color: black;
+        border: 2px solid black;
+    }
+    #message{
+        font-size: 30px;
+    }
+</style>

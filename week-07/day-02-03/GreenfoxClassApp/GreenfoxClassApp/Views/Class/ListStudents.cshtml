@@ -1,0 +1,22 @@
+﻿@model List<string>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <h1>Students:</h1>
+    @for (int i = 0; i < Model.Count; i++)
+    {
+        <p class="studentName">@(i + 1).  @Model[i];</p>
+    }
+</body>
+</html>
+<style>
+    h1 {
+        font-size: 40px;
+        text-decoration: underline;
+    }
+    .studentName{
+        font-size: 25px;
+    }
+</style>

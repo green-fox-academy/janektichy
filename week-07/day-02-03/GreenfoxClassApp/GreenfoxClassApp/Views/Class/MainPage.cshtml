@@ -1,0 +1,26 @@
+﻿@model int
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <header>Students count: @Model</header>
+    <div id="links">
+        <a href="/gfa/list">All students</a>
+        <a href="/gfa/add">Add student</a>
+        <a href="/gfa/check">Check student</a>
+    </div>
+</body>
+</html>
+<style>
+    a {
+        font-size: 30px;
+    }
+    header{
+        font-size: 35px;
+    }
+    #links{
+        display: flex;
+        flex-direction: column;
+    }
+</style>

@@ -1,0 +1,60 @@
+﻿<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <div id="links">
+        <a class="utility" href="useful/colored">Random color background</a>
+        <a class="utility" href="/useful/email?email=is@this.valid">Validate email</a>
+        <form action="useful/encodeOrDecode" method="post" id="codeForm">
+            <label id="encode">Encode or Decode a text</label>
+            <input type="text" name="toEncode" id="encode" />
+            <label id="encodeBy">Encode</label>
+            <input type="checkbox" name="encodeOrDecode" id="encodeBy" value="encode" />
+            <label id="decodeBy">Decode</label>
+            <input type="checkbox" name="encodeOrDecode" value="decode" id="decodeBy" />
+            <label id="by">By</label>
+            <input type="number" name="encodeBy" id="by"/>
+            <button type="submit">Submit</button>
+        </form>
+    </div>
+</body>
+</html>
+<style>
+    .utility{
+        color: black;
+        font-size: 30px;
+    }
+    #links{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        height: 200px;
+    }
+    #codeForm{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        width: 70%;
+    }
+    #codeForm input{
+        height: 30px;
+        width: auto;
+        font-size: 20px;
+    }
+    #codeForm button{
+        outline:none;
+        background-color: black;
+        color: white;
+        text-align: center;
+        border-radius: 10px;
+    }
+    #codeForm button:hover{
+        background: white;
+        color: black;
+        border: 2px solid black;
+    }
+    #codeForm label{
+        font-size: 20px;
+    }
+</style>

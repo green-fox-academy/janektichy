@@ -1,0 +1,27 @@
+﻿@model bool
+@{ string text = "";}
+@{ string color = "";}
+@if (Model)
+{
+    text = "this is a valid email address";
+    color = "green";
+}
+else
+{
+    text = "this is not a valid email address";
+    color = "red";
+}
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <h1>@text</h1>
+</body>
+</html>
+<style>
+    h1{
+        color: @color;
+        font-size: 30px;
+    }
+</style>
