@@ -1,0 +1,110 @@
+﻿@model BasicWebshop.ModelViews.ListToShow
+  
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <div id="header">
+        <form action="/webshop/allItems" method="get">
+            <button id="homeBut">My Shop</button>
+        </form>
+        <form action="/more-filters" method="get">
+            <button id="moreFiltersBut">More>></button>
+        </form>
+    </div>
+    <div id="formButtons">
+        <form action="/webshop/Avalible" method="post">
+            <button>Avalible Items</button>
+        </form>
+        <form action="/webshop/FromCheapest" method="post">
+            <button>From Cheapest</button>
+        </form>
+        <form action="/webshop/ContainsNike" method="post">
+            <button>Contains Nike</button>
+        </form>
+        <form action="/webshop/AvarageStock" method="post">
+            <button>Avarage Stock</button>
+        </form>
+        <form action="/webshop/MostExpensiveAvalible" method="post">
+            <button>From Most Expensive Avalible</button>
+        </form>
+    </div>
+    @{ double avarageStock = Model.AllItems.Average(l => l.InStock);}     
+    
+    <h2>Avarage Stock: @avarageStock</h2>
+</body>
+</html>
+<style>
+    #header {
+        border-bottom: 5px solid cyan;
+        height: auto;
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        margin-bottom: 50px;
+    }
+
+    #homeBut {
+        outline: none;
+        border: none;
+        background-color: transparent;
+        font-size: 70px;
+        color: cyan;
+        text-align: center;
+        font-family: 'Comic Sans MS';
+    }
+
+    #moreFiltersBut {
+        outline: none;
+        border: none;
+        background-color: transparent;
+        font-size: 70px;
+        color: cyan;
+        text-align: center;
+        font-family: 'Comic Sans MS';
+    }
+        #moreFiltersBut:hover, #homeBut:hover {
+            cursor: pointer;
+            color: black;
+        }
+    #formButtons {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+        #formButtons button {
+            outline: none;
+            border: none;
+            width: auto;
+            background-color: red;
+            border-radius: 5px;
+            color: white;
+            text-align: center;
+            text-transform: uppercase;
+            font-size: 18px;
+            font-family: 'Comic Sans MS';
+            height: 35px;
+        }
+
+            #formButtons button:hover {
+                background-color: black;
+                outline: none;
+                color: red;
+                cursor: pointer;
+            }
+
+    body {
+        padding-left: 200px;
+        padding-right: 200px;
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    h2{
+        font-size: 40px;
+        color: black;
+        font-family: 'Comic Sans MS';
+    }
+</style>

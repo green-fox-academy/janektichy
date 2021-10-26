@@ -1,0 +1,182 @@
+﻿@model BasicWebshop.ModelViews.ListToShow
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <div id="header">
+        <form action="/webshop/allItems" method="get">
+            <button id="homeBut">My Shop</button>
+        </form>
+        <form action="/more-filters" method="get">
+            <button id="moreFiltersBut">More>></button>
+        </form>
+    </div>
+    <div id="formButtons">
+        <form action="/webshop/Avalible" method="post">
+            <button>Avalible Items</button>
+        </form>
+        <form action="/webshop/FromCheapest" method="post">
+            <button>From Cheapest</button>
+        </form>
+        <form action="/webshop/ContainsNike" method="post">
+            <button>Contains Nike</button>
+        </form>
+        <form action="/webshop/AvarageStock" method="post">
+            <button>Avarage Stock</button>
+        </form>
+        <form action="/webshop/MostExpensiveAvalible" method="post">
+            <button>From Most Expensive Avalible</button>
+        </form>
+    </div>
+    <form action="/webshop/Search" method="post" id="searchForm">
+        <label class="searchFor" id="search">Search for...</label>
+        <div id="searchLine">
+            <input type="text" id="search" name="hint" />
+            <button type="submit">Search</button>
+        </div>
+    </form>
+    <table>
+        <tr>
+            <th>Product</th>
+            <th>Description</th>
+            <th>Price</th>
+            <th>In Stock</th>
+        </tr>
+        @for (int i = 0; i < Model.AllItems.Count; i++)
+        {
+            <tr>
+                <td class="name">@Model.AllItems[i].Name</td>
+                <td class="description">@Model.AllItems[i].Description</td>
+                <td class="price">@Model.AllItems[i].Price,-</td>
+                <td class="inStock">@Model.AllItems[i].InStock</td>
+            </tr>
+        }
+    </table>
+</body>
+</html>
+<style>
+    #header {
+        border-bottom: 5px solid cyan;
+        height: auto;
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        margin-bottom: 50px;
+    }
+
+    #homeBut {
+        outline: none;
+        border: none;
+        background-color: transparent;
+        font-size: 70px;
+        color: cyan;
+        text-align: center;
+        font-family: 'Comic Sans MS';
+    }
+
+    #moreFiltersBut {
+        outline: none;
+        border: none;
+        background-color: transparent;
+        font-size: 70px;
+        color: cyan;
+        text-align: center;
+        font-family: 'Comic Sans MS';
+    }
+        #moreFiltersBut:hover, #homeBut:hover {
+            cursor: pointer;
+            color: black;
+        }
+    #formButtons{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    #formButtons button{
+        outline: none;
+        border: none;
+        width: auto;
+        background-color: red;
+        border-radius: 5px;
+        color: white;
+        text-align: center;
+        text-transform: uppercase;
+        font-size: 18px;
+        font-family: 'Comic Sans MS';
+        height: 35px;
+    }
+    #formButtons button:hover{
+        background-color: black;
+        outline: none;
+        color: red;
+        cursor: pointer;
+    }
+    body{
+        padding-left: 200px;
+        padding-right: 200px;
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    #searchLine{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    #searchLine input{
+        outline: none;
+        width: 80%;
+        height: 100px;
+        border: 5px solid red;
+        font-size: 50px;
+        font-family: sans-serif;
+        border-radius: 10px;
+    }
+    #searchLine button{
+        background-color: red;
+        color: white;
+        outline: none;
+        border-radius: 10px;
+        width: 200px;
+        height: 100px;
+        font-size: 50px;
+        font-family: 'Comic Sans MS';
+        text-align: center;
+    }
+    #searchLine button:hover{
+        cursor: pointer;
+        background-color: black;
+        color: red;
+
+    }
+    .searchFor{
+        color: orangered;
+        font-size: 25px;
+        font-family: 'Comic Sans MS';
+    }
+    th{
+        background-color: cyan;
+        border: 2px solid white;
+        font-size: 25px;
+        font-weight: bolder;
+    }
+    th, td {
+        color: black;
+        font-family: 'Comic Sans MS';
+        padding: 40px 70px 40px 70px;
+    }
+    .name{
+        font-size: 22px;
+    }
+    .description{
+        font-size: 17px;
+    }
+    .price{
+        font-size: 21px;
+    }
+    .inStock{
+        font-size: 25px;
+    }
+
+</style>

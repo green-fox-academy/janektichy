@@ -1,0 +1,222 @@
+﻿@model BasicWebshop.ModelViews.ListToShow
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <title></title>
+</head>
+<body>
+    <div id="header">
+        <form action="/webshop/allItems" method="get">
+            <button id="homeBut">My Shop</button>
+        </form>
+        <form action="/more-filters" method="get">
+            <button id="moreFiltersBut">More>></button>
+        </form>
+    </div>
+    <div id="formButtons">
+        <form action="/more-filters/Clothes&Shoes" method="post">
+            <button>Clothes and Shoes</button>
+        </form>
+        <form action="/more-filters/KureciPera" method="post">
+            <button>Kuřecí Péra</button>
+        </form>
+        <form action="/more-filters/Abstracts" method="post">
+            <button>Abstracts</button>
+        </form>
+        <form action="/more-filters/Euro" method="post">
+            <button>Euro</button>
+        </form>
+        <form action="/more-filters/OriginalCurrency" method="post">
+            <button>Original Currency</button>
+        </form>
+    </div>
+
+    <form action="/more-filters/FilterByPrice" method="post" id="priceSortForm">
+        <button name="button" value="above">Above</button>
+        <button name="button" value="below">Below</button>
+        <button name="button" value="exactly">Exactly</button>
+        <input type="number" name="price" />
+    </form>
+    @if (Model.AllItems.Count > 0)
+    {
+        <table>
+
+            <tr>
+                <th>Product</th>
+                <th>Product Type</th>
+                <th>Description</th>
+                <th>Price</th>
+                <th>In Stock</th>
+            </tr>
+            @{string currency = ""; }
+            @for (int i = 0; i < Model.AllItems.Count; i++)
+            {
+                if (Model.AllItems[i].Price == Model.AllItems[i].PriceInCzk)
+                {
+                    currency = $"{Model.AllItems[i].Price},-";
+                }
+                else
+                {
+                    currency = $"{Model.AllItems[i].Price} eur";
+                }
+                <tr>
+                    <td class="name">@Model.AllItems[i].Name</td>
+                    <td class="type">@Model.AllItems[i].Type</td>
+                    <td class="description">@Model.AllItems[i].Description</td>
+                    <td class="price">@currency</td>
+                    <td class="inStock">@Model.AllItems[i].InStock</td>
+                </tr>
+            }
+        </table>
+    }
+    else
+	{
+        <h3 id="errorMes">Sorry, there are no such Products, try search again</h3>
+	}
+</body>
+</html>
+<style>
+    #header {
+        border-bottom: 5px solid cyan;
+        height: auto;
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        margin-bottom: 50px;
+    }
+
+    #homeBut {
+        outline: none;
+        border: none;
+        background-color: transparent;
+        font-size: 70px;
+        color: cyan;
+        text-align: center;
+        font-family: 'Comic Sans MS';
+    }
+
+    #moreFiltersBut {
+        outline: none;
+        border: none;
+        background-color: transparent;
+        font-size: 70px;
+        color: cyan;
+        text-align: center;
+        font-family: 'Comic Sans MS';
+    }
+    #moreFiltersBut:hover, #homeBut:hover{
+        cursor: pointer;
+        color: black;
+    }
+    #formButtons {
+        padding-left: 100px;
+        padding-right: 100px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    #formButtons button {
+        outline: none;
+        border: none;
+        width: auto;
+        background-color: red;
+        border-radius: 5px;
+        color: white;
+        text-align: center;
+        text-transform: uppercase;
+        font-size: 18px;
+        font-family: 'Comic Sans MS';
+        height: 35px;
+    }
+
+    #formButtons button:hover {
+        background-color: black;
+        outline: none;
+        color: red;
+        cursor: pointer;
+    }
+
+    body {
+        padding-left: 200px;
+        padding-right: 200px;
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    #searchLine {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    #priceSortForm{
+        margin-top: 50px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    #priceSortForm input {
+        outline: none;
+        width: 40%;
+        height: 80px;
+        border: 5px solid red;
+        font-size: 50px;
+        font-family: sans-serif;
+        border-radius: 10px;
+    }
+
+    #priceSortForm button {
+        background-color: red;
+        color: white;
+        outline: none;
+        border-radius: 10px;
+        width: auto;
+        height: 80px;
+        font-size: 50px;
+        font-family: 'Comic Sans MS';
+        text-align: center;
+    }
+    #priceSortForm button:hover {
+        cursor: pointer;
+        background-color: black;
+        color: red;
+    }
+    table{
+        margin-top: 50px;
+    }
+    th {
+        background-color: cyan;
+        border: 2px solid white;
+        font-size: 25px;
+        font-weight: bolder;
+    }
+
+    th, td {
+        color: black;
+        font-family: 'Comic Sans MS';
+        padding: 30px 55px 30px 55px;
+    }
+
+    .name, .type {
+        font-size: 22px;
+    }
+
+    .description {
+        font-size: 17px;
+    }
+
+    .price {
+        font-size: 21px;
+    }
+
+    .inStock {
+        font-size: 25px;
+    }
+    #errorMes
+    {
+        font-family: 'Comic Sans MS';
+        font-size: 70px;
+        margin-top: 50px;
+    }
+</style>
