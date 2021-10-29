@@ -1,0 +1,53 @@
+﻿@model FoxClub.Fox 
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <form action="foxInfo" method="get">
+        <button class="linkButton" type="submit" name="Name" value="@Model.Name">Information</button>
+    </form>
+    <form action="nutritionStore" method="get">
+        <button class="linkButton" type="submit" name="Name" value="@Model.Name">Nutrition Store</button>
+    </form>
+    <form action="trickCenter" method="get">
+        <button class="linkButton" type="submit" name="Name" value="@Model.Name">Trick Center</button>
+    </form>
+    <form action="actionHistory" method="get">
+        <button class="linkButton" type="submit" name="Name" value="@Model.Name">Action History</button>
+    </form>
+    <form action="/greenfox/setNutrition" method="post">
+        <label for="food">Food:</label>
+        <select id="food" name="food">
+            <option value="meat">Meat</option>
+            <option value="hamburgers">Hamburgers</option>
+            <option value="mushrooms">Mushrooms</option>
+            <option value="pasta">Pasta</option>
+            <option value="fries">Fries</option>
+        </select>
+        <label for="drink">Drink:</label>
+        <select id="drink" name="drink">
+            <option value="water">Water</option>
+            <option value="beer">Beer</option>
+            <option value="coca-cola">Coca-cola</option>
+            <option value="milk">Milk</option>
+        </select>
+        <button type="submit" name="Name" value="@Model.Name">Submit</button>
+    </form>
+</body>
+</html>
+<style>
+    .linkButton {
+        outline: none;
+        background-color: transparent;
+        font-size: 15px;
+        text-decoration: underline;
+        border: none;
+        color: blue;
+    }
+
+        .linkButton:hover {
+            color: purple;
+            cursor: pointer;
+        }
+</style>

@@ -1,0 +1,36 @@
+﻿<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <form id="sendForm" action="/message/send" method="post">
+        <label id="message">Send a Message:</label>
+        <input id="message" type="text" name="Message"/>
+        <button type="submit">Send</button>
+    </form>
+</body>
+</html>
+<style>
+    #sendForm{
+        display: flex;
+        flex-direction: row;
+        width: 50%;
+        justify-content: space-evenly;
+        font-size: 25px;
+        font-family: 'Comic Sans MS';
+    }
+    #sendForm input{
+        height: 100px;
+        width: 300px;
+    }
+    #sendForm button{
+        border-radius: 10px;
+        border: 2px solid black;
+        background-color: black;
+        color: white;
+    }
+    #sendForm button:hover{
+        background-color: white;
+        color: black;
+    }
+</style>
