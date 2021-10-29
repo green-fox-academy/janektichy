@@ -4,50 +4,99 @@
     <title></title>
 </head>
 <body>
-    <form action="foxInfo" method="get">
-        <button class="linkButton" type="submit" name="Name" value="@Model.Name">Information</button>
-    </form>
-    <form action="nutritionStore" method="get">
-        <button class="linkButton" type="submit" name="Name" value="@Model.Name">Nutrition Store</button>
-    </form>
-    <form action="trickCenter" method="get">
-        <button class="linkButton" type="submit" name="Name" value="@Model.Name">Trick Center</button>
-    </form>
-    <form action="actionHistory" method="get">
-        <button class="linkButton" type="submit" name="Name" value="@Model.Name">Action History</button>
-    </form>
-    <form action="/greenfox/setNutrition" method="post">
-        <label for="food">Food:</label>
-        <select id="food" name="food">
-            <option value="meat">Meat</option>
-            <option value="hamburgers">Hamburgers</option>
-            <option value="mushrooms">Mushrooms</option>
-            <option value="pasta">Pasta</option>
-            <option value="fries">Fries</option>
-        </select>
-        <label for="drink">Drink:</label>
-        <select id="drink" name="drink">
-            <option value="water">Water</option>
-            <option value="beer">Beer</option>
-            <option value="coca-cola">Coca-cola</option>
-            <option value="milk">Milk</option>
-        </select>
-        <button type="submit" name="Name" value="@Model.Name">Submit</button>
-    </form>
+    <header id="main">
+        <div class="links">
+            <form action="foxInfo" method="get">
+                <button class="linkButton" type="submit" name="Name" value="@Model.Name">Information</button>
+            </form>
+            <form action="nutritionStore" method="get">
+                <button class="linkButton" type="submit" name="Name" value="@Model.Name">Nutrition Store</button>
+            </form>
+            <form action="trickCenter" method="get">
+                <button class="linkButton" type="submit" name="Name" value="@Model.Name">Trick Center</button>
+            </form>
+            <form action="actionHistory" method="get">
+                <button class="linkButton" type="submit" name="Name" value="@Model.Name">Action History</button>
+            </form>
+        </div>
+        <img src="https://raw.githubusercontent.com/green-fox-academy/teaching-materials/master/project/programmer-fox-club/assets/greenfox.png?token=AVCVPHZBULONE4LYJ45PWOTBQTZ2M" alt="Fox Image" />
+        <div class="lists">
+            <form action="/greenfox/setNutrition" method="post">
+                <label for="food">Food:</label>
+                <select id="food" name="food">
+                    <option value="meat">Meat</option>
+                    <option value="hamburgers">Hamburgers</option>
+                    <option value="mushrooms">Mushrooms</option>
+                    <option value="pasta">Pasta</option>
+                    <option value="fries">Fries</option>
+                </select>
+                <label for="drink">Drink:</label>
+                <select id="drink" name="drink">
+                    <option value="water">Water</option>
+                    <option value="beer">Beer</option>
+                    <option value="coca-cola">Coca-cola</option>
+                    <option value="milk">Milk</option>
+                </select>
+                <button type="submit" name="Name" value="@Model.Name">Submit</button>
+            </form>
+        </div>
+    </header>
 </body>
 </html>
 <style>
+    body {
+        font-family: 'Comic Sans MS';
+        background-color: seagreen;
+    }
+
     .linkButton {
         outline: none;
-        background-color: transparent;
-        font-size: 15px;
-        text-decoration: underline;
-        border: none;
-        color: blue;
+        border-radius: 5px;
+        padding: 3px;
+        font-size: 25px;
+        border: 2px solid black;
+        color: black;
+        background-color: seagreen;
     }
 
         .linkButton:hover {
-            color: purple;
+            border: 2px solid seagreen;
+            background-color: black;
+            color: seagreen;
             cursor: pointer;
         }
+
+    img {
+        position: relative;
+        left: 50%;
+        transform: translateX(-50%);
+        margin: 30px;
+    }
+
+    #title {
+        text-align: center;
+    }
+
+    #main {
+        position: absolute;
+        top: 50px;
+        left: 50%;
+        transform: translateX(-50%);
+        border: 3px solid black;
+        background-color: lightgray;
+        width: 60%;
+        padding: 30px;
+    }
+
+    .links {
+        display: flex;
+        justify-content: space-evenly;
+        flex-direction: row;
+        flex-wrap: nowrap;
+    }
+
+    .lists {
+        margin-top: 40px;
+        margin-left: 180px;
+    }
 </style>

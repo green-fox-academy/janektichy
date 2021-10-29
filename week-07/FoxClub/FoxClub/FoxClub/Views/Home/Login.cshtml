@@ -3,12 +3,33 @@
     <title></title>
 </head>
 <body>
-    <h1>Welcome to Programmer Fox Club!</h1>
-    <p>Please provide a name, so you can associate it to your pet.</p>
-    <form action="/greenfox/addFox" method="post">
-        <label id="name">Name</label>
-        <input type="text" name="name" id="name"/>
-        <button type="submit">GO</button>
-    </form>
+    <header id="main">
+        <h1>Welcome to Programmer Fox Club!</h1>
+        <p>Please provide a name, so you can associate it to your pet.</p>
+        <form action="/greenfox/addFox" method="post">
+            <label id="name">Name</label>
+            <input type="text" name="name" id="name" />
+            <button type="submit">GO</button>
+        </form>
+    </header>
 </body>
 </html>
+<style>
+    body {
+        font-family: 'Comic Sans MS';
+        background-color: seagreen;
+    }
+
+
+    #main {
+        position: absolute;
+        top: 50px;
+        left: 50%;
+        transform: translateX(-50%);
+        border: 3px solid black;
+        background-color: lightgray;
+        width: 60%;
+        padding: 30px;
+    }
+
+</style>

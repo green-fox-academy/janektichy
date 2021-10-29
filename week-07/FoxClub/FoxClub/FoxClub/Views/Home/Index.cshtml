@@ -4,61 +4,105 @@
     <title></title>
 </head>
 <body>
-    <form action="foxInfo" method="get">
-        <button class="linkButton" type="submit" name="Name" value="@Model.Name">Information</button>
-    </form>
-    <form action="nutritionStore" method="get">
-        <button class="linkButton" type="submit" name="Name" value="@Model.Name">Nutrition Store</button>
-    </form>
-    <form action="trickCenter" method="get">
-        <button class="linkButton" type="submit" name="Name" value="@Model.Name">Trick Center</button>
-    </form>
-    <form action="actionHistory" method="get">
-        <button class="linkButton" type="submit" name="Name" value="@Model.Name">Action History</button>
-    </form>
-    <img src="https://raw.githubusercontent.com/green-fox-academy/teaching-materials/master/project/programmer-fox-club/assets/greenfox.png?token=AVCVPHZBULONE4LYJ45PWOTBQTZ2M" alt="Fox Image" />
-    <p>This is @Model.Name, currently living on @Model.Food and @Model.Drink. He knows @Model.Tricks.Count() tricks</p>
-    <h1>Known Tricks</h1>
-    @if (Model.Tricks.Count > 0)
-    {
-        <ul>
-            @for (int i = 0; i < Model.Tricks.Count; i++)
+    <header id="main">
+        <div class="links">
+            <form action="foxInfo" method="get">
+                <button class="linkButton" type="submit" name="Name" value="@Model.Name">Information</button>
+            </form>
+            <form action="nutritionStore" method="get">
+                <button class="linkButton" type="submit" name="Name" value="@Model.Name">Nutrition Store</button>
+            </form>
+            <form action="trickCenter" method="get">
+                <button class="linkButton" type="submit" name="Name" value="@Model.Name">Trick Center</button>
+            </form>
+            <form action="actionHistory" method="get">
+                <button class="linkButton" type="submit" name="Name" value="@Model.Name">Action History</button>
+            </form>
+        </div>
+        <img src="https://raw.githubusercontent.com/green-fox-academy/teaching-materials/master/project/programmer-fox-club/assets/greenfox.png?token=AVCVPHZBULONE4LYJ45PWOTBQTZ2M" alt="Fox Image" />
+        <p id="title">This is @Model.Name, currently living on @Model.Food and @Model.Drink. He knows @Model.Tricks.Count() tricks</p>
+        <div class="lists">
+            <h1>Known Tricks</h1>
+            @if (Model.Tricks.Count > 0)
             {
-                <li>@Model.Tricks[i]</li>
+                <ul>
+                    @for (int i = 0; i < Model.Tricks.Count; i++)
+                    {
+                        <li>@Model.Tricks[i]</li>
+                    }
+                </ul>
             }
-        </ul>
-    }
-    else
-    {
-        <p>You know no tricks yet, go and learn some</p>
-    }
-    <h1>Action History</h1>
-    @if (Model.ActionHistory.Count() == 0)
-    {
-        <p>There are no actions yet</p>
-    }
-    else
-    {
-        <ul>
-            @for (int i = 0; i < Model.ActionHistory.Count(); i++)
+            else
             {
-                <li>@Model.ActionHistory[i]</li>
+                <p>You know no tricks yet, go and learn some</p>
             }
-        </ul>
-    }
+            <h1>Action History</h1>
+            @if (Model.ActionHistory.Count() == 0)
+            {
+                <p>There are no actions yet</p>
+            }
+            else
+            {
+                <ul>
+                    @for (int i = 0; i < Model.ActionHistory.Count(); i++)
+                    {
+                        <li>@Model.ActionHistory[i]</li>
+                    }
+                </ul>
+            }
+        </div>
+    </header>
 </body>
 </html>
 <style>
-    .linkButton{
-        outline: none;
-        background-color: transparent;
-        font-size: 15px;
-        text-decoration: underline;
-        border: none;
-        color: blue;
+    body {
+        font-family: 'Comic Sans MS';
+        background-color: seagreen;
     }
-    .linkButton:hover{
-        color: purple;
+
+    .linkButton {
+        outline: none;
+        border-radius: 5px;
+        padding: 3px;
+        font-size: 25px;
+        border: 2px solid black;
+        color: black;
+        background-color: seagreen;
+    }
+    .linkButton:hover {
+        border: 2px solid seagreen;
+        background-color: black;
+        color: seagreen;
         cursor: pointer;
     }
+    img{
+        position: relative;
+        left: 50%;
+        transform: translateX(-50%);
+        margin: 30px;
+    }
+    #title{
+        text-align: center;
+    }
+    #main {
+        position: absolute;
+        top: 50px;
+        left: 50%;
+        transform: translateX(-50%);
+        border: 3px solid black;
+        background-color: lightgray;
+        width: 60%;
+        padding: 30px;
+    }
+    .links{
+        display: flex;
+        justify-content: space-evenly;
+        flex-direction: row;
+        flex-wrap: nowrap;
+    }
+    .lists{
+        margin-top: 40px;
+        margin-left: 180px;
+    }
+   
 </style>
