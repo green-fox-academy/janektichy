@@ -1,0 +1,88 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model RedditClone.Models.RedditViewModel
+@{
+    Layout = "HeaderAndFooter";
+}
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <a asp-controller="Reddit" asp-action="SubmitPost" id="addPostLink">Submit new post</a>
+    <h1>Trending Posts</h1>
+    <table>
+        @for (int i = 0; i < Model.Posts.Count; i++)
+        {
+            <tr>
+                <form asp-controller="Reddit" asp-action="EditPost" method="post" id="PostsForm">
+                <td>@Model.Posts[i].Likes</td>
+                <td><button name="like" value="+" class="btn">+</button></td>
+                <td><button name="like" value="-" class="btn">-</button></td>
+                <td><a href="@Model.Posts[i].URL">@Model.Posts[i].URL</a>@Model.Posts[i].Title</td>
+                <td><input type="hidden" name="id" value="@Model.Posts[i].Id" /></td>
+                </form>
+            </tr>
+        }
+    </table>
+</body>
+</html>
+<style>
+    a {
+        margin-top: 20px;
+    }
+
+    #PostsForm {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        padding: 20px;
+    }
+
+    table {
+        font-size: 35px;
+    }
+
+    td {
+        padding: 0px 10px;
+        ;
+    }
+
+    h1 {
+        font-size: 40px;
+        margin-bottom: 70px;
+    }
+
+    .btn {
+        outline: none;
+        text-decoration: underline;
+        color: blue;
+        background-color: transparent;
+        border: none;
+        font-size: 35px;
+    }
+
+        .btn:hover {
+            color: purple;
+            cursor: pointer;
+        }
+
+    #addPostLink {
+        text-decoration: underline;
+        color: blue;
+        margin-left: -50%;
+    }
+
+    a:hover {
+        color: purple;
+        cursor: pointer;
+    }
+
+    body {
+        position: relative;
+        top: 120px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 25px;
+    }
+</style>

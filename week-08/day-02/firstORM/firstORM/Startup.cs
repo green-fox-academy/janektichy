@@ -29,6 +29,7 @@ namespace firstORM
         {
             services.AddControllersWithViews();
             services.AddTransient<TodoService>();
+            services.AddTransient<AssigneeService>();
             ConfigureDb(services);
         }
 

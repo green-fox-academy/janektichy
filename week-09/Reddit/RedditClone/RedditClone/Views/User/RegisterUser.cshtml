@@ -1,0 +1,60 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    Layout = "HeaderAndFooter";
+}
+@model RedditClone.Models.UserViewModel
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <h1>Log in Or Register</h1>
+    <form asp-controller="User" asp-action="AddOrLoginUser" id="registerForm">
+        <table>
+            <tr>
+                <td>Username:</td>
+                <td><input type="text" name="username"/></td>
+            </tr>
+            <tr>
+                <td>Password:</td>
+                <td><input type="password" name="password"/></td>
+            </tr>
+            <tr>
+                <td><button name="action" value="login">Log in</button></td>
+                <td><button name="action" value="register">Register</button></td>
+            </tr>
+        </table>
+        @if (Model.Error)
+        {
+            <p>There was an error during your loging in, the username is already registered, or you filled up wrong password</p>
+        }
+    </form>
+
+</body>
+</html>
+<style>
+    h1{
+        text-align: center;
+        margin-top: 150px;
+        font-size: 50px;
+    }
+    #registerForm{
+        margin-top: 20px;
+        display: flex;
+        justify-content: center;
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    table{
+        font-size: 35px;
+    }
+    table button{
+        font-size: 30px;
+    }
+    table button:hover{
+        cursor: pointer;
+        background-color: black;
+        color: white;
+    }
+</style>

@@ -1,14 +1,14 @@
 ﻿using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace firstORM.Migrations
+namespace RedditClone.Migrations
 {
-    public partial class anotherOne : Migration
+    public partial class datetime : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.AddColumn<string>(
-                name: "DateOfCreation",
-                table: "Todos",
+                name: "DateAndTime",
+                table: "Posts",
                 type: "longtext",
                 nullable: true)
                 .Annotation("MySql:CharSet", "utf8mb4");
@@ -17,8 +17,8 @@ namespace firstORM.Migrations
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropColumn(
-                name: "DateOfCreation",
-                table: "Todos");
+                name: "DateAndTime",
+                table: "Posts");
         }
     }
 }

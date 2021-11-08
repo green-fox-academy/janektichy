@@ -1,4 +1,4 @@
-﻿@model firstORM.Models.ListViewModel
+﻿@model firstORM.Models.TodoViewModel
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <title></title>
@@ -17,6 +17,10 @@
             <tr>
                 <td>Is that task done?</td>
                 <td><input type="checkbox" name="isDone" value="true"/></td>
+            </tr>
+            <tr>
+                <td>Do you want to assign the task? type in the name of the Assignee</td>
+                <td><input type="text" name="assignee"/></td>
             </tr>
         </table>
         <button type="submit">Save</button>

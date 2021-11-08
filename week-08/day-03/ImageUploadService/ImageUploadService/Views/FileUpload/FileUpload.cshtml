@@ -1,0 +1,57 @@
+﻿@model ImageUploadService.Models.UserViewModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    @if (!Model.IsImageValid)
+    {
+        <p>Image is not valid, please a different one. It has to be .jpg or .png and has size less than 2MB.</p>
+    }
+    <form asp-controller="FileUpload" asp-action="SaveImage" method="post" enctype="multipart/form-data">
+        <table>
+            <tr>
+                <td><label id="user">Select User</label></td>
+                <td>
+                    <select name="userid">
+                        @for (int i = 0; i < Model.Users.Count(); i++)
+                        {
+                            <option value="@Model.Users[i].UserId">@Model.Users[i].Name</option>
+                        }
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td><label id="file">File</label></td>
+                <td><input id="file" type="file" name="file" accept=".jpg,.png" capture/></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td><button type="submit">Add</button></td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>
+<style>
+    body{
+        font-size: 30px;
+        font-family: 'Comic Sans MS';
+    }
+    input{
+        height: 30px;
+    }
+    button{
+        border-radius: 10px;
+        outline: none;
+        background-color: black;
+        border: 2px solid black;
+        color: white;
+    }
+    button:hover{
+        background-color: white;
+        color: black;
+    }
+</style>

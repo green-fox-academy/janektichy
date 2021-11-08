@@ -3,39 +3,39 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using firstORM.Database;
+using RedditClone.Database;
 
-namespace firstORM.Migrations
+namespace RedditClone.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20211102130931_CreatingDateTimeProperty")]
-    partial class CreatingDateTimeProperty
+    [Migration("20211108101121_init")]
+    partial class init
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
                 .HasAnnotation("Relational:MaxIdentifierLength", 64)
-                .HasAnnotation("ProductVersion", "5.0.11");
+                .HasAnnotation("ProductVersion", "5.0.12");
 
-            modelBuilder.Entity("firstORM.Todos.Todo", b =>
+            modelBuilder.Entity("RedditClone.Entities.RedditPost", b =>
                 {
-                    b.Property<long>("Id")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("bigint");
+                        .HasColumnType("int");
 
-                    b.Property<bool>("IsDone")
-                        .HasColumnType("tinyint(1)");
-
-                    b.Property<bool>("IsUrgent")
-                        .HasColumnType("tinyint(1)");
+                    b.Property<int>("Likes")
+                        .HasColumnType("int");
 
                     b.Property<string>("Title")
                         .HasColumnType("longtext");
 
+                    b.Property<string>("URL")
+                        .HasColumnType("longtext");
+
                     b.HasKey("Id");
 
-                    b.ToTable("Todos");
+                    b.ToTable("Posts");
                 });
 #pragma warning restore 612, 618
         }

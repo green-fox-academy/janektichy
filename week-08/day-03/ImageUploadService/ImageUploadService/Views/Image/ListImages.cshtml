@@ -1,0 +1,28 @@
+﻿@model ImageUploadService.Models.ImageViewModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <form asp-controller="Image" asp-action="RemoveImage" method="post">
+        @if (Model.Images is not null)
+        {
+            <ol>
+                @for (int i = 0; i < Model.Images.Count(); i++)
+                {
+                    <li>
+                        <img src="../../Uploads/hvezdnanoc.png" alt="@Model.Images[i].ImageName" />
+                        <button type="submit" name="removeId" value="@Model.Images[i].ImageId">Remove</button>
+                    </li>
+                }
+            </ol>
+        }
+        else
+        {
+            <p>There are no images from that user yet</p>
+        }
+    </form>
+        
+</body>
+</html>

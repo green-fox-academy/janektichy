@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace firstORM.Models
 {
-    public class ListViewModel
+    public class TodoViewModel
     {
         public Todo Todo { get; set; }
         public List<Todo> Todos { get; set; }
 
-        public ListViewModel()
+        public TodoViewModel()
         {
             Todos = new List<Todo>();
         }

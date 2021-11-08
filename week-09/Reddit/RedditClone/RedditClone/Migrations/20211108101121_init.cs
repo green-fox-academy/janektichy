@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace firstORM.Migrations
+namespace RedditClone.Migrations
 {
     public partial class init : Migration
     {
@@ -11,19 +11,20 @@ namespace firstORM.Migrations
                 .Annotation("MySql:CharSet", "utf8mb4");
 
             migrationBuilder.CreateTable(
-                name: "Todos",
+                name: "Posts",
                 columns: table => new
                 {
-                    Id = table.Column<long>(type: "bigint", nullable: false)
+                    Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("MySql:ValueGenerationStrategy", MySqlValueGenerationStrategy.IdentityColumn),
                     Title = table.Column<string>(type: "longtext", nullable: true)
                         .Annotation("MySql:CharSet", "utf8mb4"),
-                    IsUrgent = table.Column<bool>(type: "tinyint(1)", nullable: false),
-                    IsDone = table.Column<bool>(type: "tinyint(1)", nullable: false)
+                    URL = table.Column<string>(type: "longtext", nullable: true)
+                        .Annotation("MySql:CharSet", "utf8mb4"),
+                    Likes = table.Column<int>(type: "int", nullable: false)
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Todos", x => x.Id);
+                    table.PrimaryKey("PK_Posts", x => x.Id);
                 })
                 .Annotation("MySql:CharSet", "utf8mb4");
         }
@@ -31,7 +32,7 @@ namespace firstORM.Migrations
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(
-                name: "Todos");
+                name: "Posts");
         }
     }
 }

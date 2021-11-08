@@ -1,5 +1,7 @@
 ﻿using firstORM.Database;
+using firstORM.Models.Entities;
 using firstORM.Todos;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -27,11 +29,7 @@ namespace firstORM.Services
         }
         public List<Todo> FindAll()
         {
-            List<Todo> allTodos = new List<Todo>();
-            foreach (var item in DbContext.Todos)
-            {
-                allTodos.Add(item);
-            }
+            var allTodos = DbContext.Todos.Include(a => a.Assignee).ToList();
             return allTodos;
         }
         public void RemoveTodo(Todo todo)
@@ -39,16 +37,33 @@ namespace firstORM.Services
             DbContext.Todos.Remove(todo);
             DbContext.SaveChanges();
         }
-        public void EditTodo(long id, string title, bool isUrgent, bool isDone)
+        public bool EditTodo(long id, string title, bool isUrgent, bool isDone, string assignee)
         {
             Todo selectedTodo = DbContext.Todos.FirstOrDefault(t => t.Id == id);
             if (title is not null)
             {
                 selectedTodo.Title = title;
             }
+            bool doesAssigneeExist = false;
+            if (assignee is not null)
+            {
+                foreach (var item in DbContext.Assignees)
+                {
+                    if (item.Name == assignee)
+                    {
+                        doesAssigneeExist = true;
+                        selectedTodo.AssigneeId = item.Id;
+                    }
+                }
+            }
+            else
+            {
+                doesAssigneeExist = true;
+            }
             selectedTodo.IsUrgent = isUrgent;
             selectedTodo.IsDone = isDone;
             DbContext.SaveChanges();
+            return doesAssigneeExist;
         }
     }
 }

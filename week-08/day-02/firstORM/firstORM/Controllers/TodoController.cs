@@ -21,7 +21,7 @@ namespace firstORM.Controllers
         [HttpGet("list")]
         public IActionResult List()
         {
-            ListViewModel model = new ListViewModel();
+            TodoViewModel model = new TodoViewModel();
             model.Todos = TodoService.FindAll().Where(t => !t.IsDone).ToList();
             return View(model);
         }
@@ -31,7 +31,7 @@ namespace firstORM.Controllers
             return View();
         }
         [HttpPost("add")]
-        public IActionResult AddTodo(string task, bool isUrgent)
+        public IActionResult Add(string task, bool isUrgent)
         {
             Todo newTodo = new Todo(task) { IsUrgent = isUrgent};
             TodoService.AddTodo(newTodo);
@@ -48,14 +48,32 @@ namespace firstORM.Controllers
         public IActionResult EditTodo([FromRoute] long id)
         {
             Todo selectedTodo = TodoService.FindById(id);
-            ListViewModel model = new ListViewModel();
+            TodoViewModel model = new TodoViewModel();
             model.Todo = selectedTodo;
             return View("EditTodo", model);
         }
         [HttpPost("{id=id}/edit")]
-        public IActionResult EditTodo([FromRoute] long id, string title, bool isUrgent, bool isDone)
+        public IActionResult EditTodo([FromRoute] long id, string assignee, string title, bool isUrgent, bool isDone)
         {
-            TodoService.EditTodo(id, title, isUrgent, isDone);
+            bool DoesAssigneeExist = TodoService.EditTodo(id, title, isUrgent, isDone, assignee);
+            if (DoesAssigneeExist)
+            {
+                return RedirectToAction("List");
+            }
+            else
+            {
+                return View("ErrorMessage");
+            }
+        }
+        [HttpPost("search")]
+        public IActionResult SearchTodo(string hint)
+        {
+            if (hint is not null)
+            {
+                TodoViewModel model = new TodoViewModel();
+                model.Todos = TodoService.FindAll().Where(t => t.Title.Contains(hint)).ToList();
+                return View("List", model);
+            }
             return RedirectToAction("List");
         }
     }
