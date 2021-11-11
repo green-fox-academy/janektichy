@@ -1,0 +1,59 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{ 
+    Layout = "UserHeaderAndFooter";
+}
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <form asp-controller="User" asp-action="AddPost" id="AddForm" method="post">
+        <h1>Submit a new post</h1>
+        <table>
+            <tr>
+                <td>Title:</td>
+                <td><input type="text" name="title" /></td>
+            </tr>
+            <tr>
+                <td>URL:</td>
+                <td><input type="url" name="url" /></td>
+            </tr>
+        </table>
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>
+<style>
+    body{
+        font-size: 35px;
+    }
+    #AddForm{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+        padding: 20px;
+    }
+    h1{
+        font-weight: bold;
+        font-size: 50px;
+        margin-bottom: 70px;
+    }
+    button{
+        width: 70px;
+        border-radius: 10px;
+    }
+    button:hover{
+        cursor: pointer;
+    }
+    body {
+        position: relative;
+        top: 120px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 25px;
+    }
+</style>

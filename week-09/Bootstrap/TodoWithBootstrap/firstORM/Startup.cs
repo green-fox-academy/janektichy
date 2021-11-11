@@ -2,23 +2,25 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Configuration;
+using Microsoft.EntityFrameworkCore.Design;
+using Pomelo.EntityFrameworkCore.MySql;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
-using RedditClone.Database;
-using RedditClone.Middlewares;
-using RedditClone.Services;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.Extensions.Logging;
+using Microsoft.Extensions.Configuration;
+using firstORM.Database;
+using firstORM.Services;
 
-namespace RedditClone
+namespace firstORM
 {
     public class Startup
     {
         private IConfiguration AppConfig { get; }
+
         public Startup(IConfiguration configuration)
         {
             AppConfig = configuration;
@@ -26,16 +28,11 @@ namespace RedditClone
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
-            services.AddHttpContextAccessor();
-            services.AddTransient<PostService>();
-            services.AddTransient<UserService>();
+            services.AddTransient<TodoService>();
+            services.AddTransient<AssigneeService>();
             ConfigureDb(services);
-            services.AddDistributedMemoryCache();
-            services.AddSession(options =>
-            {
-                options.IdleTimeout = TimeSpan.FromMinutes(60);
-            });
         }
+
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             if (env.IsDevelopment())
@@ -44,13 +41,11 @@ namespace RedditClone
             }
 
             app.UseRouting();
-            app.UseSession();
-            app.UseMiddleware<MiddlewarePrototype>();
+
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
             });
-            
         }
         private void ConfigureDb(IServiceCollection services)
         {
@@ -60,11 +55,10 @@ namespace RedditClone
             services.AddDbContext<ApplicationDbContext>(
                 options => options
                 .UseMySql(connectionString, serverVersion)
+                // The following three options help with debugging
                 .LogTo(Console.WriteLine, LogLevel.Information)
                 .EnableSensitiveDataLogging()
                 .EnableDetailedErrors());
         }
     }
 }
-
-

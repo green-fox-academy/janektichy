@@ -1,9 +1,11 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Http;
+using Microsoft.EntityFrameworkCore;
 using RedditClone.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using System.Security.Claims;
 
 namespace RedditClone.Database
 {
@@ -11,9 +13,10 @@ namespace RedditClone.Database
     {
         public virtual DbSet<RedditPost> Posts { get; set; }
         public virtual DbSet<User> Users { get; set; }
-        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
+        private readonly IHttpContextAccessor _httpContextAccessor;
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options, IHttpContextAccessor httpContextAccessor) : base(options)
         {
-
+            _httpContextAccessor = httpContextAccessor;
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
